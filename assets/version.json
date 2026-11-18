@@ -1,9 +1,9 @@
 {
  "schema": 1,
  "version": "v3",
- "generated": "2026-11-18T09:26:55Z",
+ "generated": "2026-11-18T13:40:37Z",
  "files": 1879,
- "bytes": 52731488,
+ "bytes": 52758358,
  "repo": "jianchi89/galworld-assets",
  "layout": "assets/<work>/<char>/<variant>.webp",
  "works": 22,
