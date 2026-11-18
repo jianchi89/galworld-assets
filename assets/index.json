@@ -1925,9 +1925,13 @@
      "variants": {
       "smug": "summerpockets/shiroha/smug.webp",
       "surprised": "summerpockets/shiroha/surprised.webp",
+      "uniform": "summerpockets/shiroha/uniform.webp",
       "angry": "summerpockets/shiroha/angry.webp",
       "puzzled": "summerpockets/shiroha/puzzled.webp",
       "blush": "summerpockets/shiroha/blush.webp",
+      "outfit1": "summerpockets/shiroha/outfit1.webp",
+      "outfit2": "summerpockets/shiroha/outfit2.webp",
+      "outfit3": "summerpockets/shiroha/outfit3.webp",
       "normal": "summerpockets/shiroha/normal.webp",
       "sad": "summerpockets/shiroha/sad.webp",
       "happy": "summerpockets/shiroha/happy.webp"
