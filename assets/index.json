@@ -1,0 +1,2968 @@
+{
+ "schema": 1,
+ "works": {
+  "飞翔心": {
+   "slug": "feixiangxin",
+   "chars": {
+    "MAXX": {
+     "slug": "maxx",
+     "variants": {
+      "通常": "feixiangxin/maxx/normal.webp",
+      "大立绘": "feixiangxin/maxx/uniform.webp"
+     }
+    },
+    "八重野萤": {
+     "slug": "bazhongyeying",
+     "variants": {
+      "通常": "feixiangxin/bazhongyeying/normal.webp",
+      "大立绘": "feixiangxin/bazhongyeying/uniform.webp"
+     }
+    },
+    "白鹭茉百合": {
+     "slug": "bailumobaihe",
+     "variants": {
+      "通常": "feixiangxin/bailumobaihe/normal.webp",
+      "脸红通常": "feixiangxin/bailumobaihe/normal-blush.webp",
+      "高兴": "feixiangxin/bailumobaihe/happy.webp",
+      "害羞": "feixiangxin/bailumobaihe/shy.webp",
+      "惊讶": "feixiangxin/bailumobaihe/surprised.webp",
+      "脸红高兴": "feixiangxin/bailumobaihe/happy-blush.webp",
+      "脸红惊讶": "feixiangxin/bailumobaihe/surprised-blush.webp",
+      "脸红生气": "feixiangxin/bailumobaihe/angry-blush.webp",
+      "脸红疑惑": "feixiangxin/bailumobaihe/puzzled-blush.webp",
+      "难过": "feixiangxin/bailumobaihe/sad.webp",
+      "生气": "feixiangxin/bailumobaihe/angry.webp",
+      "疑惑": "feixiangxin/bailumobaihe/puzzled.webp",
+      "大立绘": "feixiangxin/bailumobaihe/uniform.webp"
+     }
+    },
+    "冰川京一郎": {
+     "slug": "bingchuanjingyilang",
+     "variants": {
+      "通常": "feixiangxin/bingchuanjingyilang/normal.webp"
+     }
+    },
+    "稻羽结衣": {
+     "slug": "daoyujieyi",
+     "variants": {
+      "通常": "feixiangxin/daoyujieyi/normal.webp",
+      "脸红通常": "feixiangxin/daoyujieyi/normal-blush.webp",
+      "高兴": "feixiangxin/daoyujieyi/happy.webp",
+      "惊讶": "feixiangxin/daoyujieyi/surprised.webp",
+      "脸红高兴": "feixiangxin/daoyujieyi/happy-blush.webp",
+      "脸红惊讶": "feixiangxin/daoyujieyi/surprised-blush.webp",
+      "脸红难过": "feixiangxin/daoyujieyi/sad-blush.webp",
+      "脸红生气": "feixiangxin/daoyujieyi/angry-blush.webp",
+      "脸红疑惑": "feixiangxin/daoyujieyi/puzzled-blush.webp",
+      "难过": "feixiangxin/daoyujieyi/sad.webp",
+      "生气": "feixiangxin/daoyujieyi/angry.webp",
+      "疑惑": "feixiangxin/daoyujieyi/puzzled.webp",
+      "大立绘": "feixiangxin/daoyujieyi/uniform.webp"
+     }
+    },
+    "电堂明": {
+     "slug": "diantangming",
+     "variants": {
+      "通常": "feixiangxin/diantangming/normal.webp",
+      "大立绘": "feixiangxin/diantangming/uniform.webp"
+     }
+    },
+    "抚子": {
+     "slug": "fuzi",
+     "variants": {
+      "通常": "feixiangxin/fuzi/normal.webp",
+      "大立绘": "feixiangxin/fuzi/uniform.webp"
+     }
+    },
+    "光": {
+     "slug": "guang",
+     "variants": {
+      "通常": "feixiangxin/guang/normal.webp",
+      "大立绘": "feixiangxin/guang/uniform.webp"
+     }
+    },
+    "皇千羽耶": {
+     "slug": "huangqianyuye",
+     "variants": {
+      "通常": "feixiangxin/huangqianyuye/normal.webp",
+      "大立绘": "feixiangxin/huangqianyuye/uniform.webp"
+     }
+    },
+    "皇天音": {
+     "slug": "huangtianyin",
+     "variants": {
+      "通常": "feixiangxin/huangtianyin/normal.webp",
+      "脸红通常": "feixiangxin/huangtianyin/normal-blush.webp",
+      "高兴": "feixiangxin/huangtianyin/happy.webp",
+      "惊讶": "feixiangxin/huangtianyin/surprised.webp",
+      "脸红高兴": "feixiangxin/huangtianyin/happy-blush.webp",
+      "脸红惊讶": "feixiangxin/huangtianyin/surprised-blush.webp",
+      "脸红难过": "feixiangxin/huangtianyin/sad-blush.webp",
+      "脸红生气": "feixiangxin/huangtianyin/angry-blush.webp",
+      "脸红疑惑": "feixiangxin/huangtianyin/puzzled-blush.webp",
+      "难过": "feixiangxin/huangtianyin/sad.webp",
+      "生气": "feixiangxin/huangtianyin/angry.webp",
+      "疑惑": "feixiangxin/huangtianyin/puzzled.webp",
+      "大立绘": "feixiangxin/huangtianyin/uniform.webp"
+     }
+    },
+    "皇奏龙": {
+     "slug": "huangzoulong",
+     "variants": {
+      "通常": "feixiangxin/huangzoulong/normal.webp",
+      "大立绘": "feixiangxin/huangzoulong/uniform.webp"
+     }
+    },
+    "九条玖琉璃": {
+     "slug": "jiutiaojiuliuli",
+     "variants": {
+      "通常": "feixiangxin/jiutiaojiuliuli/normal.webp",
+      "大立绘": "feixiangxin/jiutiaojiuliuli/uniform.webp"
+     }
+    },
+    "水无濑樱子": {
+     "slug": "shuiwulaiyingzi",
+     "variants": {
+      "通常": "feixiangxin/shuiwulaiyingzi/normal.webp",
+      "脸红通常": "feixiangxin/shuiwulaiyingzi/normal-blush.webp",
+      "高兴": "feixiangxin/shuiwulaiyingzi/happy.webp",
+      "惊讶": "feixiangxin/shuiwulaiyingzi/surprised.webp",
+      "脸红高兴": "feixiangxin/shuiwulaiyingzi/happy-blush.webp",
+      "脸红惊讶": "feixiangxin/shuiwulaiyingzi/surprised-blush.webp",
+      "脸红难过": "feixiangxin/shuiwulaiyingzi/sad-blush.webp",
+      "脸红生气": "feixiangxin/shuiwulaiyingzi/angry-blush.webp",
+      "脸红疑惑": "feixiangxin/shuiwulaiyingzi/puzzled-blush.webp",
+      "难过": "feixiangxin/shuiwulaiyingzi/sad.webp",
+      "生气": "feixiangxin/shuiwulaiyingzi/angry.webp",
+      "疑惑": "feixiangxin/shuiwulaiyingzi/puzzled.webp",
+      "大立绘": "feixiangxin/shuiwulaiyingzi/uniform.webp"
+     }
+    },
+    "丝茉茉": {
+     "slug": "simomo",
+     "variants": {
+      "通常": "feixiangxin/simomo/normal.webp",
+      "大立绘": "feixiangxin/simomo/uniform.webp"
+     }
+    },
+    "死神老师": {
+     "slug": "sishenlaoshi",
+     "variants": {
+      "通常": "feixiangxin/sishenlaoshi/normal.webp",
+      "大立绘": "feixiangxin/sishenlaoshi/uniform.webp"
+     }
+    },
+    "小雪": {
+     "slug": "xiaoxue",
+     "variants": {
+      "通常": "feixiangxin/xiaoxue/normal.webp",
+      "大立绘": "feixiangxin/xiaoxue/uniform.webp"
+     }
+    },
+    "雪代铃乃": {
+     "slug": "xuedailingnai",
+     "variants": {
+      "通常": "feixiangxin/xuedailingnai/normal.webp",
+      "脸红通常": "feixiangxin/xuedailingnai/normal-blush.webp",
+      "高兴": "feixiangxin/xuedailingnai/happy.webp",
+      "害羞": "feixiangxin/xuedailingnai/shy.webp",
+      "惊讶": "feixiangxin/xuedailingnai/surprised.webp",
+      "脸红高兴": "feixiangxin/xuedailingnai/happy-blush.webp",
+      "脸红惊讶": "feixiangxin/xuedailingnai/surprised-blush.webp",
+      "脸红难过": "feixiangxin/xuedailingnai/sad-blush.webp",
+      "脸红生气": "feixiangxin/xuedailingnai/angry-blush.webp",
+      "脸红疑惑": "feixiangxin/xuedailingnai/puzzled-blush.webp",
+      "难过": "feixiangxin/xuedailingnai/sad.webp",
+      "生气": "feixiangxin/xuedailingnai/angry.webp",
+      "疑惑": "feixiangxin/xuedailingnai/puzzled.webp",
+      "大立绘": "feixiangxin/xuedailingnai/uniform.webp"
+     }
+    },
+    "早河惠": {
+     "slug": "zaohehui",
+     "variants": {
+      "通常": "feixiangxin/zaohehui/normal.webp",
+      "大立绘": "feixiangxin/zaohehui/uniform.webp"
+     }
+    }
+   }
+  },
+  "芬芳": {
+   "slug": "fenfang",
+   "chars": {
+    "冰堂芹香": {
+     "slug": "bingtangqinxiang",
+     "variants": {
+      "通常": "fenfang/bingtangqinxiang/normal.webp",
+      "脸红通常": "fenfang/bingtangqinxiang/normal-blush.webp",
+      "高兴": "fenfang/bingtangqinxiang/happy.webp",
+      "惊讶": "fenfang/bingtangqinxiang/surprised.webp",
+      "脸红高兴": "fenfang/bingtangqinxiang/happy-blush.webp",
+      "脸红惊讶": "fenfang/bingtangqinxiang/surprised-blush.webp",
+      "脸红难过": "fenfang/bingtangqinxiang/sad-blush.webp",
+      "脸红生气": "fenfang/bingtangqinxiang/angry-blush.webp",
+      "脸红疑惑": "fenfang/bingtangqinxiang/puzzled-blush.webp",
+      "难过": "fenfang/bingtangqinxiang/sad.webp",
+      "生气": "fenfang/bingtangqinxiang/angry.webp",
+      "疑惑": "fenfang/bingtangqinxiang/puzzled.webp",
+      "大立绘": "fenfang/bingtangqinxiang/outfit1.webp"
+     }
+    },
+    "朝仓千弘": {
+     "slug": "chaocangqianhong",
+     "variants": {
+      "通常": "fenfang/chaocangqianhong/normal.webp",
+      "脸红通常": "fenfang/chaocangqianhong/normal-blush.webp",
+      "高兴": "fenfang/chaocangqianhong/happy.webp",
+      "脸红高兴": "fenfang/chaocangqianhong/happy-blush.webp",
+      "脸红惊讶": "fenfang/chaocangqianhong/surprised-blush.webp",
+      "脸红难过": "fenfang/chaocangqianhong/sad-blush.webp",
+      "脸红生气": "fenfang/chaocangqianhong/angry-blush.webp",
+      "脸红疑惑": "fenfang/chaocangqianhong/puzzled-blush.webp",
+      "难过": "fenfang/chaocangqianhong/sad.webp",
+      "生气": "fenfang/chaocangqianhong/angry.webp",
+      "疑惑": "fenfang/chaocangqianhong/puzzled.webp",
+      "大立绘": "fenfang/chaocangqianhong/uniform.webp"
+     }
+    },
+    "菱川琴枝": {
+     "slug": "lingchuanqinzhi",
+     "variants": {
+      "通常": "fenfang/lingchuanqinzhi/normal.webp",
+      "大立绘": "fenfang/lingchuanqinzhi/outfit1.webp"
+     }
+    },
+    "牧濑皋月": {
+     "slug": "mulaigaoyue",
+     "variants": {
+      "通常": "fenfang/mulaigaoyue/normal.webp",
+      "脸红通常": "fenfang/mulaigaoyue/normal-blush.webp",
+      "高兴": "fenfang/mulaigaoyue/happy.webp",
+      "惊讶": "fenfang/mulaigaoyue/surprised.webp",
+      "脸红高兴": "fenfang/mulaigaoyue/happy-blush.webp",
+      "脸红惊讶": "fenfang/mulaigaoyue/surprised-blush.webp",
+      "脸红难过": "fenfang/mulaigaoyue/sad-blush.webp",
+      "脸红生气": "fenfang/mulaigaoyue/angry-blush.webp",
+      "脸红疑惑": "fenfang/mulaigaoyue/puzzled-blush.webp",
+      "难过": "fenfang/mulaigaoyue/sad.webp",
+      "生气": "fenfang/mulaigaoyue/angry.webp",
+      "疑惑": "fenfang/mulaigaoyue/puzzled.webp",
+      "大立绘": "fenfang/mulaigaoyue/uniform.webp"
+     }
+    },
+    "千原乃亚": {
+     "slug": "qianyuannaiya",
+     "variants": {
+      "通常": "fenfang/qianyuannaiya/normal.webp",
+      "脸红通常": "fenfang/qianyuannaiya/normal-blush.webp",
+      "高兴": "fenfang/qianyuannaiya/happy.webp",
+      "惊讶": "fenfang/qianyuannaiya/surprised.webp",
+      "脸红高兴": "fenfang/qianyuannaiya/happy-blush.webp",
+      "脸红惊讶": "fenfang/qianyuannaiya/surprised-blush.webp",
+      "脸红难过": "fenfang/qianyuannaiya/sad-blush.webp",
+      "脸红生气": "fenfang/qianyuannaiya/angry-blush.webp",
+      "脸红疑惑": "fenfang/qianyuannaiya/puzzled-blush.webp",
+      "难过": "fenfang/qianyuannaiya/sad.webp",
+      "生气": "fenfang/qianyuannaiya/angry.webp",
+      "疑惑": "fenfang/qianyuannaiya/puzzled.webp",
+      "大立绘": "fenfang/qianyuannaiya/uniform.webp"
+     }
+    },
+    "天城咲夜": {
+     "slug": "tianchengxiaoye",
+     "variants": {
+      "通常": "fenfang/tianchengxiaoye/normal.webp",
+      "脸红通常": "fenfang/tianchengxiaoye/normal-blush.webp",
+      "高兴": "fenfang/tianchengxiaoye/happy.webp",
+      "惊讶": "fenfang/tianchengxiaoye/surprised.webp",
+      "脸红高兴": "fenfang/tianchengxiaoye/happy-blush.webp",
+      "脸红惊讶": "fenfang/tianchengxiaoye/surprised-blush.webp",
+      "脸红难过": "fenfang/tianchengxiaoye/sad-blush.webp",
+      "脸红生气": "fenfang/tianchengxiaoye/angry-blush.webp",
+      "脸红疑惑": "fenfang/tianchengxiaoye/puzzled-blush.webp",
+      "难过": "fenfang/tianchengxiaoye/sad.webp",
+      "生气": "fenfang/tianchengxiaoye/angry.webp",
+      "疑惑": "fenfang/tianchengxiaoye/puzzled.webp",
+      "大立绘": "fenfang/tianchengxiaoye/uniform.webp"
+     }
+    },
+    "天道八云": {
+     "slug": "tiandaobayun",
+     "variants": {
+      "通常": "fenfang/tiandaobayun/normal.webp",
+      "大立绘": "fenfang/tiandaobayun/outfit1.webp"
+     }
+    },
+    "夏目朱里": {
+     "slug": "xiamuzhuli",
+     "variants": {
+      "通常": "fenfang/xiamuzhuli/normal.webp",
+      "脸红通常": "fenfang/xiamuzhuli/normal-blush.webp",
+      "高兴": "fenfang/xiamuzhuli/happy.webp",
+      "脸红高兴": "fenfang/xiamuzhuli/happy-blush.webp",
+      "脸红难过": "fenfang/xiamuzhuli/sad-blush.webp",
+      "脸红生气": "fenfang/xiamuzhuli/angry-blush.webp",
+      "脸红思考": "fenfang/xiamuzhuli/thinking-blush.webp",
+      "脸红疑惑": "fenfang/xiamuzhuli/puzzled-blush.webp",
+      "难过": "fenfang/xiamuzhuli/sad.webp",
+      "生气": "fenfang/xiamuzhuli/angry.webp",
+      "思考": "fenfang/xiamuzhuli/thinking.webp",
+      "疑惑": "fenfang/xiamuzhuli/puzzled.webp",
+      "大立绘": "fenfang/xiamuzhuli/uniform.webp"
+     }
+    },
+    "一之濑舞织": {
+     "slug": "yizhilaiwuzhi",
+     "variants": {
+      "通常": "fenfang/yizhilaiwuzhi/normal.webp",
+      "大立绘": "fenfang/yizhilaiwuzhi/outfit1.webp"
+     }
+    }
+   }
+  },
+  "画布": {
+   "slug": "huabu",
+   "chars": {
+    "安娜塔西亚": {
+     "slug": "annataxiya",
+     "variants": {
+      "通常": "huabu/annataxiya/normal.webp",
+      "脸红通常": "huabu/annataxiya/normal-blush.webp",
+      "高兴": "huabu/annataxiya/happy.webp",
+      "惊讶": "huabu/annataxiya/surprised.webp",
+      "脸红高兴": "huabu/annataxiya/happy-blush.webp",
+      "脸红惊讶": "huabu/annataxiya/surprised-blush.webp",
+      "脸红难过": "huabu/annataxiya/sad-blush.webp",
+      "脸红生气": "huabu/annataxiya/angry-blush.webp",
+      "脸红疑惑": "huabu/annataxiya/puzzled-blush.webp",
+      "难过": "huabu/annataxiya/sad.webp",
+      "生气": "huabu/annataxiya/angry.webp",
+      "疑惑": "huabu/annataxiya/puzzled.webp",
+      "大立绘": "huabu/annataxiya/uniform.webp"
+     }
+    },
+    "凤怜奈": {
+     "slug": "fengliannai",
+     "variants": {
+      "通常": "huabu/fengliannai/normal.webp",
+      "脸红通常": "huabu/fengliannai/normal-blush.webp",
+      "高兴": "huabu/fengliannai/happy.webp",
+      "惊讶": "huabu/fengliannai/surprised.webp",
+      "脸红高兴": "huabu/fengliannai/happy-blush.webp",
+      "脸红惊讶": "huabu/fengliannai/surprised-blush.webp",
+      "脸红难过": "huabu/fengliannai/sad-blush.webp",
+      "脸红生气": "huabu/fengliannai/angry-blush.webp",
+      "脸红疑惑": "huabu/fengliannai/puzzled-blush.webp",
+      "难过": "huabu/fengliannai/sad.webp",
+      "生气": "huabu/fengliannai/angry.webp",
+      "疑惑": "huabu/fengliannai/puzzled.webp",
+      "大立绘": "huabu/fengliannai/uniform.webp"
+     }
+    },
+    "凤一朗": {
+     "slug": "fengyilang",
+     "variants": {
+      "通常": "huabu/fengyilang/normal.webp",
+      "大立绘": "huabu/fengyilang/outfit1.webp"
+     }
+    },
+    "猫西昭江": {
+     "slug": "maoxizhaojiang",
+     "variants": {
+      "通常": "huabu/maoxizhaojiang/normal.webp",
+      "大立绘": "huabu/maoxizhaojiang/outfit1.webp"
+     }
+    },
+    "乾幸": {
+     "slug": "qianxing",
+     "variants": {
+      "通常": "huabu/qianxing/normal.webp",
+      "脸红通常": "huabu/qianxing/normal-blush.webp",
+      "高兴": "huabu/qianxing/happy.webp",
+      "惊讶": "huabu/qianxing/surprised.webp",
+      "脸红高兴": "huabu/qianxing/happy-blush.webp",
+      "脸红惊讶": "huabu/qianxing/surprised-blush.webp",
+      "脸红难过": "huabu/qianxing/sad-blush.webp",
+      "脸红生气": "huabu/qianxing/angry-blush.webp",
+      "脸红疑惑": "huabu/qianxing/puzzled-blush.webp",
+      "难过": "huabu/qianxing/sad.webp",
+      "生气": "huabu/qianxing/angry.webp",
+      "疑惑": "huabu/qianxing/puzzled.webp",
+      "大立绘": "huabu/qianxing/uniform.webp"
+     }
+    },
+    "瑞木杷虎": {
+     "slug": "ruimupahu",
+     "variants": {
+      "通常": "huabu/ruimupahu/normal.webp",
+      "大立绘": "huabu/ruimupahu/outfit1.webp"
+     }
+    },
+    "深山瑞希": {
+     "slug": "shenshanruixi",
+     "variants": {
+      "通常": "huabu/shenshanruixi/normal.webp",
+      "脸红通常": "huabu/shenshanruixi/normal-blush.webp",
+      "高兴": "huabu/shenshanruixi/happy.webp",
+      "惊讶": "huabu/shenshanruixi/surprised.webp",
+      "脸红高兴": "huabu/shenshanruixi/happy-blush.webp",
+      "脸红惊讶": "huabu/shenshanruixi/surprised-blush.webp",
+      "脸红难过": "huabu/shenshanruixi/sad-blush.webp",
+      "脸红生气": "huabu/shenshanruixi/angry-blush.webp",
+      "脸红疑惑": "huabu/shenshanruixi/puzzled-blush.webp",
+      "难过": "huabu/shenshanruixi/sad.webp",
+      "生气": "huabu/shenshanruixi/angry.webp",
+      "疑惑": "huabu/shenshanruixi/puzzled.webp",
+      "大立绘": "huabu/shenshanruixi/uniform.webp"
+     }
+    },
+    "狮子堂千晴": {
+     "slug": "shizitangqianqing",
+     "variants": {
+      "通常": "huabu/shizitangqianqing/normal.webp",
+      "脸红通常": "huabu/shizitangqianqing/normal-blush.webp",
+      "惊讶": "huabu/shizitangqianqing/surprised.webp",
+      "脸红惊讶": "huabu/shizitangqianqing/surprised-blush.webp",
+      "脸红难过": "huabu/shizitangqianqing/sad-blush.webp",
+      "脸红生气": "huabu/shizitangqianqing/angry-blush.webp",
+      "脸红疑惑": "huabu/shizitangqianqing/puzzled-blush.webp",
+      "难过": "huabu/shizitangqianqing/sad.webp",
+      "生气": "huabu/shizitangqianqing/angry.webp",
+      "疑惑": "huabu/shizitangqianqing/puzzled.webp",
+      "大立绘": "huabu/shizitangqianqing/uniform.webp"
+     }
+    },
+    "沃尔夫冈": {
+     "slug": "woerfugang",
+     "variants": {
+      "通常": "huabu/woerfugang/normal.webp"
+     }
+    },
+    "乌丸铁子": {
+     "slug": "wuwantiezi",
+     "variants": {
+      "通常": "huabu/wuwantiezi/normal.webp",
+      "大立绘": "huabu/wuwantiezi/outfit1.webp"
+     }
+    },
+    "乌丸紫月": {
+     "slug": "wuwanziyue",
+     "variants": {
+      "通常": "huabu/wuwanziyue/normal.webp",
+      "脸红通常": "huabu/wuwanziyue/normal-blush.webp",
+      "高兴": "huabu/wuwanziyue/happy.webp",
+      "惊讶": "huabu/wuwanziyue/surprised.webp",
+      "脸红高兴": "huabu/wuwanziyue/happy-blush.webp",
+      "脸红惊讶": "huabu/wuwanziyue/surprised-blush.webp",
+      "脸红难过": "huabu/wuwanziyue/sad-blush.webp",
+      "脸红生气": "huabu/wuwanziyue/angry-blush.webp",
+      "脸红疑惑": "huabu/wuwanziyue/puzzled-blush.webp",
+      "难过": "huabu/wuwanziyue/sad.webp",
+      "生气": "huabu/wuwanziyue/angry.webp",
+      "疑惑": "huabu/wuwanziyue/puzzled.webp",
+      "大立绘": "huabu/wuwanziyue/uniform.webp"
+     }
+    },
+    "佐藤洋": {
+     "slug": "zuotengyang",
+     "variants": {
+      "通常": "huabu/zuotengyang/normal.webp",
+      "大立绘": "huabu/zuotengyang/outfit1.webp"
+     }
+    }
+   }
+  },
+  "近月": {
+   "slug": "jinyue",
+   "chars": {
+    "八十岛壹与": {
+     "slug": "bashidaoyiyu",
+     "variants": {
+      "通常": "jinyue/bashidaoyiyu/normal.webp"
+     }
+    },
+    "布琉艾特": {
+     "slug": "buliuaite-nikelaite-pula-93f2",
+     "variants": {
+      "通常": "jinyue/buliuaite-nikelaite-pula-93f2/normal.webp",
+      "脸红通常": "jinyue/buliuaite-nikelaite-pula-93f2/normal-blush.webp",
+      "腹黑笑": "jinyue/buliuaite-nikelaite-pula-93f2/smirk.webp",
+      "高兴": "jinyue/buliuaite-nikelaite-pula-93f2/happy.webp",
+      "惊讶": "jinyue/buliuaite-nikelaite-pula-93f2/surprised.webp",
+      "脸红腹黑笑": "jinyue/buliuaite-nikelaite-pula-93f2/smirk-blush.webp",
+      "脸红高兴": "jinyue/buliuaite-nikelaite-pula-93f2/happy-blush.webp",
+      "脸红惊讶": "jinyue/buliuaite-nikelaite-pula-93f2/surprised-blush.webp",
+      "脸红难过": "jinyue/buliuaite-nikelaite-pula-93f2/sad-blush.webp",
+      "脸红生气": "jinyue/buliuaite-nikelaite-pula-93f2/angry-blush.webp",
+      "脸红疑惑": "jinyue/buliuaite-nikelaite-pula-93f2/puzzled-blush.webp",
+      "难过": "jinyue/buliuaite-nikelaite-pula-93f2/sad.webp",
+      "生气": "jinyue/buliuaite-nikelaite-pula-93f2/angry.webp",
+      "疑惑": "jinyue/buliuaite-nikelaite-pula-93f2/puzzled.webp",
+      "大立绘": "jinyue/buliuaite-nikelaite-pula-93f2/uniform.webp"
+     }
+    },
+    "枞山红叶": {
+     "slug": "congshanhongye",
+     "variants": {
+      "通常": "jinyue/congshanhongye/normal.webp",
+      "大立绘": "jinyue/congshanhongye/full.webp"
+     }
+    },
+    "大藏安东尼": {
+     "slug": "dazangandongni",
+     "variants": {
+      "通常": "jinyue/dazangandongni/normal.webp"
+     }
+    },
+    "大藏骏我": {
+     "slug": "dazangjunwo",
+     "variants": {
+      "通常": "jinyue/dazangjunwo/normal.webp"
+     }
+    },
+    "大藏里想奈": {
+     "slug": "dazanglixiangnai",
+     "variants": {
+      "通常": "jinyue/dazanglixiangnai/normal.webp",
+      "脸红通常": "jinyue/dazanglixiangnai/normal-blush.webp",
+      "腹黑笑": "jinyue/dazanglixiangnai/smirk.webp",
+      "高兴": "jinyue/dazanglixiangnai/happy.webp",
+      "惊讶": "jinyue/dazanglixiangnai/surprised.webp",
+      "脸红腹黑笑": "jinyue/dazanglixiangnai/smirk-blush.webp",
+      "脸红高兴": "jinyue/dazanglixiangnai/happy-blush.webp",
+      "脸红惊讶": "jinyue/dazanglixiangnai/surprised-blush.webp",
+      "脸红难过": "jinyue/dazanglixiangnai/sad-blush.webp",
+      "脸红疑惑": "jinyue/dazanglixiangnai/puzzled-blush.webp",
+      "难过": "jinyue/dazanglixiangnai/sad.webp",
+      "生气": "jinyue/dazanglixiangnai/angry.webp",
+      "疑惑": "jinyue/dazanglixiangnai/puzzled.webp",
+      "大立绘": "jinyue/dazanglixiangnai/uniform.webp"
+     }
+    },
+    "大藏衣远": {
+     "slug": "dazangyiyuan",
+     "variants": {
+      "通常": "jinyue/dazangyiyuan/normal.webp",
+      "大立绘": "jinyue/dazangyiyuan/full.webp"
+     }
+    },
+    "迪特琳德": {
+     "slug": "ditelinde-ciweigete",
+     "variants": {
+      "通常": "jinyue/ditelinde-ciweigete/normal.webp",
+      "大立绘": "jinyue/ditelinde-ciweigete/full.webp"
+     }
+    },
+    "花之宫瑞穗": {
+     "slug": "huazhigongruisui",
+     "variants": {
+      "通常": "jinyue/huazhigongruisui/normal.webp",
+      "脸红通常": "jinyue/huazhigongruisui/normal-blush.webp",
+      "高兴": "jinyue/huazhigongruisui/happy.webp",
+      "惊讶": "jinyue/huazhigongruisui/surprised.webp",
+      "脸红高兴": "jinyue/huazhigongruisui/happy-blush.webp",
+      "脸红难过": "jinyue/huazhigongruisui/sad-blush.webp",
+      "脸红生气": "jinyue/huazhigongruisui/angry-blush.webp",
+      "脸红疑惑": "jinyue/huazhigongruisui/puzzled-blush.webp",
+      "难过": "jinyue/huazhigongruisui/sad.webp",
+      "生气": "jinyue/huazhigongruisui/angry.webp",
+      "疑惑": "jinyue/huazhigongruisui/puzzled.webp",
+      "大立绘": "jinyue/huazhigongruisui/outfit1.webp"
+     }
+    },
+    "华花": {
+     "slug": "huahua",
+     "variants": {
+      "通常": "jinyue/huahua/normal.webp",
+      "大立绘": "jinyue/huahua/full.webp"
+     }
+    },
+    "莉莉安奴": {
+     "slug": "liliannu-sailiya-lagelan-b685",
+     "variants": {
+      "通常": "jinyue/liliannu-sailiya-lagelan-b685/normal.webp",
+      "大立绘": "jinyue/liliannu-sailiya-lagelan-b685/full.webp"
+     }
+    },
+    "柳之濑凑": {
+     "slug": "liuzhilaicou",
+     "variants": {
+      "通常": "jinyue/liuzhilaicou/normal.webp",
+      "脸红通常": "jinyue/liuzhilaicou/normal-blush.webp",
+      "高兴": "jinyue/liuzhilaicou/happy.webp",
+      "惊讶": "jinyue/liuzhilaicou/surprised.webp",
+      "脸红高兴": "jinyue/liuzhilaicou/happy-blush.webp",
+      "脸红惊讶": "jinyue/liuzhilaicou/surprised-blush.webp",
+      "脸红难过": "jinyue/liuzhilaicou/sad-blush.webp",
+      "脸红生气": "jinyue/liuzhilaicou/angry-blush.webp",
+      "脸红疑惑": "jinyue/liuzhilaicou/puzzled-blush.webp",
+      "难过": "jinyue/liuzhilaicou/sad.webp",
+      "生气": "jinyue/liuzhilaicou/angry.webp",
+      "疑惑": "jinyue/liuzhilaicou/puzzled.webp",
+      "大立绘": "jinyue/liuzhilaicou/uniform.webp"
+     }
+    },
+    "梅丽尔": {
+     "slug": "meilier-linqi",
+     "variants": {
+      "通常": "jinyue/meilier-linqi/normal.webp",
+      "脸红通常": "jinyue/meilier-linqi/normal-blush.webp",
+      "高兴": "jinyue/meilier-linqi/happy.webp",
+      "惊讶": "jinyue/meilier-linqi/surprised.webp",
+      "脸红高兴": "jinyue/meilier-linqi/happy-blush.webp",
+      "脸红惊讶": "jinyue/meilier-linqi/surprised-blush.webp",
+      "脸红难过": "jinyue/meilier-linqi/sad-blush.webp",
+      "脸红生气": "jinyue/meilier-linqi/angry-blush.webp",
+      "脸红疑惑": "jinyue/meilier-linqi/puzzled-blush.webp",
+      "难过": "jinyue/meilier-linqi/sad.webp",
+      "生气": "jinyue/meilier-linqi/angry.webp",
+      "疑惑": "jinyue/meilier-linqi/puzzled.webp",
+      "大立绘": "jinyue/meilier-linqi/uniform.webp"
+     }
+    },
+    "名波七爱": {
+     "slug": "mingboqiai",
+     "variants": {
+      "通常": "jinyue/mingboqiai/normal.webp",
+      "大立绘": "jinyue/mingboqiai/full.webp"
+     }
+    },
+    "让·皮埃尔": {
+     "slug": "rang-piaier-shidanli",
+     "variants": {
+      "通常": "jinyue/rang-piaier-shidanli/normal.webp"
+     }
+    },
+    "萨莎": {
+     "slug": "sasha-bikai-yaneikan",
+     "variants": {
+      "通常": "jinyue/sasha-bikai-yaneikan/normal.webp",
+      "大立绘": "jinyue/sasha-bikai-yaneikan/full.webp"
+     }
+    },
+    "山吹八千代": {
+     "slug": "shanchuibaqiandai",
+     "variants": {
+      "通常": "jinyue/shanchuibaqiandai/normal.webp",
+      "大立绘": "jinyue/shanchuibaqiandai/full.webp"
+     }
+    },
+    "杉村北斗": {
+     "slug": "shancunbeidou",
+     "variants": {
+      "通常": "jinyue/shancunbeidou/normal.webp",
+      "大立绘": "jinyue/shancunbeidou/full.webp"
+     }
+    },
+    "瓦莲莉娅": {
+     "slug": "walianliya-telianqiewein-94de",
+     "variants": {
+      "通常": "jinyue/walianliya-telianqiewein-94de/normal.webp",
+      "大立绘": "jinyue/walianliya-telianqiewein-94de/full.webp"
+     }
+    },
+    "小仓朝日": {
+     "slug": "xiaocangzhaori",
+     "variants": {
+      "通常": "jinyue/xiaocangzhaori/normal.webp",
+      "脸红通常": "jinyue/xiaocangzhaori/normal-blush.webp",
+      "高兴": "jinyue/xiaocangzhaori/happy.webp",
+      "惊讶": "jinyue/xiaocangzhaori/surprised.webp",
+      "脸红高兴": "jinyue/xiaocangzhaori/happy-blush.webp",
+      "脸红惊讶": "jinyue/xiaocangzhaori/surprised-blush.webp",
+      "脸红难过": "jinyue/xiaocangzhaori/sad-blush.webp",
+      "脸红生气": "jinyue/xiaocangzhaori/angry-blush.webp",
+      "脸红疑惑": "jinyue/xiaocangzhaori/puzzled-blush.webp",
+      "难过": "jinyue/xiaocangzhaori/sad.webp",
+      "生气": "jinyue/xiaocangzhaori/angry.webp",
+      "疑惑": "jinyue/xiaocangzhaori/puzzled.webp",
+      "大立绘": "jinyue/xiaocangzhaori/uniform.webp"
+     }
+    },
+    "樱小路露娜": {
+     "slug": "yingxiaoluluna",
+     "variants": {
+      "通常": "jinyue/yingxiaoluluna/normal.webp",
+      "脸红通常": "jinyue/yingxiaoluluna/normal-blush.webp",
+      "得意": "jinyue/yingxiaoluluna/smug.webp",
+      "腹黑笑": "jinyue/yingxiaoluluna/smirk.webp",
+      "高兴": "jinyue/yingxiaoluluna/happy.webp",
+      "惊讶": "jinyue/yingxiaoluluna/surprised.webp",
+      "脸红得意": "jinyue/yingxiaoluluna/smug-blush.webp",
+      "脸红腹黑笑": "jinyue/yingxiaoluluna/smirk-blush.webp",
+      "脸红高兴": "jinyue/yingxiaoluluna/happy-blush.webp",
+      "脸红惊讶": "jinyue/yingxiaoluluna/surprised-blush.webp",
+      "脸红难过": "jinyue/yingxiaoluluna/sad-blush.webp",
+      "脸红生气": "jinyue/yingxiaoluluna/angry-blush.webp",
+      "脸红疑惑": "jinyue/yingxiaoluluna/puzzled-blush.webp",
+      "难过": "jinyue/yingxiaoluluna/sad.webp",
+      "生气": "jinyue/yingxiaoluluna/angry.webp",
+      "疑惑": "jinyue/yingxiaoluluna/puzzled.webp",
+      "大立绘": "jinyue/yingxiaoluluna/uniform.webp"
+     }
+    },
+    "尤希尔": {
+     "slug": "youxier-fululu-rangmeier",
+     "variants": {
+      "通常": "jinyue/youxier-fululu-rangmeier/normal.webp",
+      "脸红通常": "jinyue/youxier-fululu-rangmeier/normal-blush.webp",
+      "高兴": "jinyue/youxier-fululu-rangmeier/happy.webp",
+      "惊讶": "jinyue/youxier-fululu-rangmeier/surprised.webp",
+      "脸红高兴": "jinyue/youxier-fululu-rangmeier/happy-blush.webp",
+      "脸红惊讶": "jinyue/youxier-fululu-rangmeier/surprised-blush.webp",
+      "脸红难过": "jinyue/youxier-fululu-rangmeier/sad-blush.webp",
+      "脸红生气": "jinyue/youxier-fululu-rangmeier/angry-blush.webp",
+      "脸红疑惑": "jinyue/youxier-fululu-rangmeier/puzzled-blush.webp",
+      "难过": "jinyue/youxier-fululu-rangmeier/sad.webp",
+      "生气": "jinyue/youxier-fululu-rangmeier/angry.webp",
+      "疑惑": "jinyue/youxier-fululu-rangmeier/puzzled.webp",
+      "大立绘": "jinyue/youxier-fululu-rangmeier/uniform.webp"
+     }
+    }
+   }
+  },
+  "轮舞曲": {
+   "slug": "lunwuqu",
+   "chars": {
+    "不知火怜": {
+     "slug": "buzhihuolian",
+     "variants": {
+      "通常": "lunwuqu/buzhihuolian/normal.webp"
+     }
+    },
+    "江利原美月": {
+     "slug": "jiangliyuanmeiyue",
+     "variants": {
+      "通常": "lunwuqu/jiangliyuanmeiyue/normal.webp",
+      "脸红通常": "lunwuqu/jiangliyuanmeiyue/normal-blush.webp",
+      "高兴": "lunwuqu/jiangliyuanmeiyue/happy.webp",
+      "脸红高兴": "lunwuqu/jiangliyuanmeiyue/happy-blush.webp",
+      "脸红难过": "lunwuqu/jiangliyuanmeiyue/sad-blush.webp",
+      "脸红生气": "lunwuqu/jiangliyuanmeiyue/angry-blush.webp",
+      "脸红疑惑": "lunwuqu/jiangliyuanmeiyue/puzzled-blush.webp",
+      "难过": "lunwuqu/jiangliyuanmeiyue/sad.webp",
+      "生气": "lunwuqu/jiangliyuanmeiyue/angry.webp",
+      "疑惑": "lunwuqu/jiangliyuanmeiyue/puzzled.webp",
+      "大立绘": "lunwuqu/jiangliyuanmeiyue/uniform.webp"
+     }
+    },
+    "堺浩一": {
+     "slug": "jiehaoyi",
+     "variants": {
+      "通常": "lunwuqu/jiehaoyi/normal.webp"
+     }
+    },
+    "门胁樱": {
+     "slug": "menxieying",
+     "variants": {
+      "通常": "lunwuqu/menxieying/normal.webp",
+      "脸红通常": "lunwuqu/menxieying/normal-blush.webp",
+      "高兴": "lunwuqu/menxieying/happy.webp",
+      "惊讶": "lunwuqu/menxieying/surprised.webp",
+      "脸红高兴": "lunwuqu/menxieying/happy-blush.webp",
+      "脸红惊讶": "lunwuqu/menxieying/surprised-blush.webp",
+      "脸红难过": "lunwuqu/menxieying/sad-blush.webp",
+      "脸红生气": "lunwuqu/menxieying/angry-blush.webp",
+      "脸红疑惑": "lunwuqu/menxieying/puzzled-blush.webp",
+      "难过": "lunwuqu/menxieying/sad.webp",
+      "生气": "lunwuqu/menxieying/angry.webp",
+      "疑惑": "lunwuqu/menxieying/puzzled.webp",
+      "大立绘": "lunwuqu/menxieying/uniform.webp"
+     }
+    },
+    "双叶沙那子": {
+     "slug": "shuangyeshanazi",
+     "variants": {
+      "通常": "lunwuqu/shuangyeshanazi/normal.webp",
+      "大立绘": "lunwuqu/shuangyeshanazi/outfit1.webp"
+     }
+    },
+    "天司凉香": {
+     "slug": "tiansiliangxiang",
+     "variants": {
+      "通常": "lunwuqu/tiansiliangxiang/normal.webp",
+      "脸红通常": "lunwuqu/tiansiliangxiang/normal-blush.webp",
+      "高兴": "lunwuqu/tiansiliangxiang/happy.webp",
+      "惊讶": "lunwuqu/tiansiliangxiang/surprised.webp",
+      "脸红高兴": "lunwuqu/tiansiliangxiang/happy-blush.webp",
+      "脸红惊讶": "lunwuqu/tiansiliangxiang/surprised-blush.webp",
+      "脸红难过": "lunwuqu/tiansiliangxiang/sad-blush.webp",
+      "脸红生气": "lunwuqu/tiansiliangxiang/angry-blush.webp",
+      "脸红疑惑": "lunwuqu/tiansiliangxiang/puzzled-blush.webp",
+      "难过": "lunwuqu/tiansiliangxiang/sad.webp",
+      "生气": "lunwuqu/tiansiliangxiang/angry.webp",
+      "疑惑": "lunwuqu/tiansiliangxiang/puzzled.webp",
+      "大立绘": "lunwuqu/tiansiliangxiang/uniform.webp"
+     }
+    },
+    "小峰真奈美": {
+     "slug": "xiaofengzhennaimei",
+     "variants": {
+      "通常": "lunwuqu/xiaofengzhennaimei/normal.webp",
+      "脸红通常": "lunwuqu/xiaofengzhennaimei/normal-blush.webp",
+      "高兴": "lunwuqu/xiaofengzhennaimei/happy.webp",
+      "惊讶": "lunwuqu/xiaofengzhennaimei/surprised.webp",
+      "脸红高兴": "lunwuqu/xiaofengzhennaimei/happy-blush.webp",
+      "脸红惊讶": "lunwuqu/xiaofengzhennaimei/surprised-blush.webp",
+      "脸红难过": "lunwuqu/xiaofengzhennaimei/sad-blush.webp",
+      "脸红生气": "lunwuqu/xiaofengzhennaimei/angry-blush.webp",
+      "脸红疑惑": "lunwuqu/xiaofengzhennaimei/puzzled-blush.webp",
+      "难过": "lunwuqu/xiaofengzhennaimei/sad.webp",
+      "生气": "lunwuqu/xiaofengzhennaimei/angry.webp",
+      "疑惑": "lunwuqu/xiaofengzhennaimei/puzzled.webp",
+      "大立绘": "lunwuqu/xiaofengzhennaimei/uniform.webp"
+     }
+    },
+    "小石川珠音": {
+     "slug": "xiaoshichuanzhuyin",
+     "variants": {
+      "通常": "lunwuqu/xiaoshichuanzhuyin/normal.webp",
+      "大立绘": "lunwuqu/xiaoshichuanzhuyin/outfit1.webp"
+     }
+    },
+    "新垣若菜": {
+     "slug": "xinyuanruocai",
+     "variants": {
+      "通常": "lunwuqu/xinyuanruocai/normal.webp",
+      "脸红通常": "lunwuqu/xinyuanruocai/normal-blush.webp",
+      "得意": "lunwuqu/xinyuanruocai/smug.webp",
+      "高兴": "lunwuqu/xinyuanruocai/happy.webp",
+      "脸红得意": "lunwuqu/xinyuanruocai/smug-blush.webp",
+      "脸红高兴": "lunwuqu/xinyuanruocai/happy-blush.webp",
+      "脸红难过": "lunwuqu/xinyuanruocai/sad-blush.webp",
+      "脸红生气": "lunwuqu/xinyuanruocai/angry-blush.webp",
+      "脸红疑惑": "lunwuqu/xinyuanruocai/puzzled-blush.webp",
+      "难过": "lunwuqu/xinyuanruocai/sad.webp",
+      "生气": "lunwuqu/xinyuanruocai/angry.webp",
+      "疑惑": "lunwuqu/xinyuanruocai/puzzled.webp",
+      "大立绘": "lunwuqu/xinyuanruocai/uniform.webp"
+     }
+    },
+    "真原葵": {
+     "slug": "zhenyuankui",
+     "variants": {
+      "通常": "lunwuqu/zhenyuankui/normal.webp",
+      "脸红通常": "lunwuqu/zhenyuankui/normal-blush.webp",
+      "高兴": "lunwuqu/zhenyuankui/happy.webp",
+      "惊讶": "lunwuqu/zhenyuankui/surprised.webp",
+      "脸红高兴": "lunwuqu/zhenyuankui/happy-blush.webp",
+      "脸红惊讶": "lunwuqu/zhenyuankui/surprised-blush.webp",
+      "脸红难过": "lunwuqu/zhenyuankui/sad-blush.webp",
+      "脸红生气": "lunwuqu/zhenyuankui/angry-blush.webp",
+      "脸红疑惑": "lunwuqu/zhenyuankui/puzzled-blush.webp",
+      "难过": "lunwuqu/zhenyuankui/sad.webp",
+      "生气": "lunwuqu/zhenyuankui/angry.webp",
+      "疑惑": "lunwuqu/zhenyuankui/puzzled.webp",
+      "大立绘": "lunwuqu/zhenyuankui/outfit1.webp"
+     }
+    },
+    "真原祐里": {
+     "slug": "zhenyuanyouli",
+     "variants": {
+      "通常": "lunwuqu/zhenyuanyouli/normal.webp",
+      "脸红通常": "lunwuqu/zhenyuanyouli/normal-blush.webp",
+      "高兴": "lunwuqu/zhenyuanyouli/happy.webp",
+      "惊讶": "lunwuqu/zhenyuanyouli/surprised.webp",
+      "脸红高兴": "lunwuqu/zhenyuanyouli/happy-blush.webp",
+      "脸红惊讶": "lunwuqu/zhenyuanyouli/surprised-blush.webp",
+      "脸红难过": "lunwuqu/zhenyuanyouli/sad-blush.webp",
+      "脸红生气": "lunwuqu/zhenyuanyouli/angry-blush.webp",
+      "脸红疑惑": "lunwuqu/zhenyuanyouli/puzzled-blush.webp",
+      "难过": "lunwuqu/zhenyuanyouli/sad.webp",
+      "生气": "lunwuqu/zhenyuanyouli/angry.webp",
+      "疑惑": "lunwuqu/zhenyuanyouli/puzzled.webp",
+      "大立绘": "lunwuqu/zhenyuanyouli/uniform.webp"
+     }
+    },
+    "佐佐原亮子": {
+     "slug": "zuozuoyuanliangzi",
+     "variants": {
+      "通常": "lunwuqu/zuozuoyuanliangzi/normal.webp",
+      "大立绘": "lunwuqu/zuozuoyuanliangzi/outfit1.webp"
+     }
+    }
+   }
+  },
+  "柠水": {
+   "slug": "ningshui",
+   "chars": {
+    "不二卫哉": {
+     "slug": "buerweizai",
+     "variants": {
+      "通常": "ningshui/buerweizai/normal.webp"
+     }
+    },
+    "茶园那优花": {
+     "slug": "chayuannayouhua",
+     "variants": {
+      "通常": "ningshui/chayuannayouhua/normal.webp",
+      "脸红通常": "ningshui/chayuannayouhua/normal-blush.webp",
+      "得意": "ningshui/chayuannayouhua/smug.webp",
+      "腹黑笑": "ningshui/chayuannayouhua/smirk.webp",
+      "高兴": "ningshui/chayuannayouhua/happy.webp",
+      "惊讶": "ningshui/chayuannayouhua/surprised.webp",
+      "脸红腹黑笑": "ningshui/chayuannayouhua/smirk-blush.webp",
+      "脸红高兴": "ningshui/chayuannayouhua/happy-blush.webp",
+      "脸红惊讶": "ningshui/chayuannayouhua/surprised-blush.webp",
+      "脸红生气": "ningshui/chayuannayouhua/angry-blush.webp",
+      "脸红疑惑": "ningshui/chayuannayouhua/puzzled-blush.webp",
+      "难过": "ningshui/chayuannayouhua/sad.webp",
+      "生气": "ningshui/chayuannayouhua/angry.webp",
+      "疑惑": "ningshui/chayuannayouhua/puzzled.webp",
+      "大立绘": "ningshui/chayuannayouhua/outfit1.webp"
+     }
+    },
+    "岛越月望": {
+     "slug": "daoyueyuewang",
+     "variants": {
+      "通常": "ningshui/daoyueyuewang/normal.webp",
+      "脸红通常": "ningshui/daoyueyuewang/normal-blush.webp",
+      "得意": "ningshui/daoyueyuewang/smug.webp",
+      "腹黑笑": "ningshui/daoyueyuewang/smirk.webp",
+      "高兴": "ningshui/daoyueyuewang/happy.webp",
+      "惊讶": "ningshui/daoyueyuewang/surprised.webp",
+      "脸红得意": "ningshui/daoyueyuewang/smug-blush.webp",
+      "脸红腹黑笑": "ningshui/daoyueyuewang/smirk-blush.webp",
+      "脸红高兴": "ningshui/daoyueyuewang/happy-blush.webp",
+      "脸红惊讶": "ningshui/daoyueyuewang/surprised-blush.webp",
+      "脸红难过": "ningshui/daoyueyuewang/sad-blush.webp",
+      "脸红生气": "ningshui/daoyueyuewang/angry-blush.webp",
+      "脸红疑惑": "ningshui/daoyueyuewang/puzzled-blush.webp",
+      "难过": "ningshui/daoyueyuewang/sad.webp",
+      "生气": "ningshui/daoyueyuewang/angry.webp",
+      "疑惑": "ningshui/daoyueyuewang/puzzled.webp",
+      "大立绘": "ningshui/daoyueyuewang/uniform.webp"
+     }
+    },
+    "二见原莉莉子": {
+     "slug": "erjianyuanlilizi",
+     "variants": {
+      "通常": "ningshui/erjianyuanlilizi/normal.webp",
+      "脸红通常": "ningshui/erjianyuanlilizi/normal-blush.webp",
+      "得意": "ningshui/erjianyuanlilizi/smug.webp",
+      "腹黑笑": "ningshui/erjianyuanlilizi/smirk.webp",
+      "高兴": "ningshui/erjianyuanlilizi/happy.webp",
+      "惊讶": "ningshui/erjianyuanlilizi/surprised.webp",
+      "脸红得意": "ningshui/erjianyuanlilizi/smug-blush.webp",
+      "脸红腹黑笑": "ningshui/erjianyuanlilizi/smirk-blush.webp",
+      "脸红高兴": "ningshui/erjianyuanlilizi/happy-blush.webp",
+      "脸红惊讶": "ningshui/erjianyuanlilizi/surprised-blush.webp",
+      "脸红难过": "ningshui/erjianyuanlilizi/sad-blush.webp",
+      "脸红生气": "ningshui/erjianyuanlilizi/angry-blush.webp",
+      "脸红思考": "ningshui/erjianyuanlilizi/thinking-blush.webp",
+      "脸红疑惑": "ningshui/erjianyuanlilizi/puzzled-blush.webp",
+      "难过": "ningshui/erjianyuanlilizi/sad.webp",
+      "生气": "ningshui/erjianyuanlilizi/angry.webp",
+      "思考": "ningshui/erjianyuanlilizi/thinking.webp",
+      "疑惑": "ningshui/erjianyuanlilizi/puzzled.webp",
+      "大立绘": "ningshui/erjianyuanlilizi/uniform.webp"
+     }
+    },
+    "砾川杰": {
+     "slug": "lichuanjie",
+     "variants": {
+      "通常": "ningshui/lichuanjie/normal.webp"
+     }
+    },
+    "砾川美玖": {
+     "slug": "lichuanmeijiu",
+     "variants": {
+      "通常": "ningshui/lichuanmeijiu/normal.webp",
+      "脸红通常": "ningshui/lichuanmeijiu/normal-blush.webp",
+      "高兴": "ningshui/lichuanmeijiu/happy.webp",
+      "惊讶": "ningshui/lichuanmeijiu/surprised.webp",
+      "脸红高兴": "ningshui/lichuanmeijiu/happy-blush.webp",
+      "脸红惊讶": "ningshui/lichuanmeijiu/surprised-blush.webp",
+      "脸红难过": "ningshui/lichuanmeijiu/sad-blush.webp",
+      "脸红生气": "ningshui/lichuanmeijiu/angry-blush.webp",
+      "脸红疑惑": "ningshui/lichuanmeijiu/puzzled-blush.webp",
+      "难过": "ningshui/lichuanmeijiu/sad.webp",
+      "生气": "ningshui/lichuanmeijiu/angry.webp",
+      "疑惑": "ningshui/lichuanmeijiu/puzzled.webp",
+      "大立绘": "ningshui/lichuanmeijiu/outfit1.webp"
+     }
+    },
+    "砾川雄真": {
+     "slug": "lichuanxiongzhen",
+     "variants": {
+      "通常": "ningshui/lichuanxiongzhen/normal.webp"
+     }
+    },
+    "阳见惠凪": {
+     "slug": "yangjianhuizhi",
+     "variants": {
+      "通常": "ningshui/yangjianhuizhi/normal.webp",
+      "脸红通常": "ningshui/yangjianhuizhi/normal-blush.webp",
+      "高兴": "ningshui/yangjianhuizhi/happy.webp",
+      "惊讶": "ningshui/yangjianhuizhi/surprised.webp",
+      "脸红高兴": "ningshui/yangjianhuizhi/happy-blush.webp",
+      "脸红惊讶": "ningshui/yangjianhuizhi/surprised-blush.webp",
+      "脸红难过": "ningshui/yangjianhuizhi/sad-blush.webp",
+      "脸红生气": "ningshui/yangjianhuizhi/angry-blush.webp",
+      "脸红疑惑": "ningshui/yangjianhuizhi/puzzled-blush.webp",
+      "难过": "ningshui/yangjianhuizhi/sad.webp",
+      "生气": "ningshui/yangjianhuizhi/angry.webp",
+      "疑惑": "ningshui/yangjianhuizhi/puzzled.webp",
+      "大立绘": "ningshui/yangjianhuizhi/uniform.webp"
+     }
+    },
+    "隐杏珠": {
+     "slug": "yinxingzhu",
+     "variants": {
+      "通常": "ningshui/yinxingzhu/normal.webp",
+      "脸红通常": "ningshui/yinxingzhu/normal-blush.webp",
+      "得意": "ningshui/yinxingzhu/smug.webp",
+      "高兴": "ningshui/yinxingzhu/happy.webp",
+      "惊讶": "ningshui/yinxingzhu/surprised.webp",
+      "脸红得意": "ningshui/yinxingzhu/smug-blush.webp",
+      "脸红高兴": "ningshui/yinxingzhu/happy-blush.webp",
+      "脸红惊讶": "ningshui/yinxingzhu/surprised-blush.webp",
+      "脸红难过": "ningshui/yinxingzhu/sad-blush.webp",
+      "脸红生气": "ningshui/yinxingzhu/angry-blush.webp",
+      "脸红疑惑": "ningshui/yinxingzhu/puzzled-blush.webp",
+      "难过": "ningshui/yinxingzhu/sad.webp",
+      "生气": "ningshui/yinxingzhu/angry.webp",
+      "疑惑": "ningshui/yinxingzhu/puzzled.webp",
+      "大立绘": "ningshui/yinxingzhu/uniform.webp"
+     }
+    },
+    "仲原大梦": {
+     "slug": "zhongyuandameng",
+     "variants": {
+      "通常": "ningshui/zhongyuandameng/normal.webp"
+     }
+    }
+   }
+  },
+  "万华镜": {
+   "slug": "wanhuajing",
+   "chars": {
+    "莲华": {
+     "slug": "lianhua",
+     "variants": {
+      "通常": "wanhuajing/lianhua/normal.webp",
+      "大立绘": "wanhuajing/lianhua/outfit1.webp"
+     }
+    },
+    "铃森伊千果": {
+     "slug": "lingsenyiqianguo",
+     "variants": {
+      "通常": "wanhuajing/lingsenyiqianguo/normal.webp",
+      "脸红通常": "wanhuajing/lingsenyiqianguo/normal-blush.webp",
+      "高兴": "wanhuajing/lingsenyiqianguo/happy.webp",
+      "惊讶": "wanhuajing/lingsenyiqianguo/surprised.webp",
+      "脸红高兴": "wanhuajing/lingsenyiqianguo/happy-blush.webp",
+      "脸红惊讶": "wanhuajing/lingsenyiqianguo/surprised-blush.webp",
+      "脸红难过": "wanhuajing/lingsenyiqianguo/sad-blush.webp",
+      "脸红生气": "wanhuajing/lingsenyiqianguo/angry-blush.webp",
+      "脸红疑惑": "wanhuajing/lingsenyiqianguo/puzzled-blush.webp",
+      "难过": "wanhuajing/lingsenyiqianguo/sad.webp",
+      "生气": "wanhuajing/lingsenyiqianguo/angry.webp",
+      "疑惑": "wanhuajing/lingsenyiqianguo/puzzled.webp",
+      "大立绘": "wanhuajing/lingsenyiqianguo/uniform.webp"
+     }
+    },
+    "藤堂咲": {
+     "slug": "tengtangxiao",
+     "variants": {
+      "通常": "wanhuajing/tengtangxiao/normal.webp",
+      "大立绘": "wanhuajing/tengtangxiao/outfit1.webp"
+     }
+    },
+    "觋礼次郎": {
+     "slug": "xilicilang",
+     "variants": {
+      "通常": "wanhuajing/xilicilang/normal.webp"
+     }
+    },
+    "觋夕莉": {
+     "slug": "xixili",
+     "variants": {
+      "通常": "wanhuajing/xixili/normal.webp",
+      "脸红通常": "wanhuajing/xixili/normal-blush.webp",
+      "腹黑笑": "wanhuajing/xixili/smirk.webp",
+      "高兴": "wanhuajing/xixili/happy.webp",
+      "惊讶": "wanhuajing/xixili/surprised.webp",
+      "脸红腹黑笑": "wanhuajing/xixili/smirk-blush.webp",
+      "脸红高兴": "wanhuajing/xixili/happy-blush.webp",
+      "脸红惊讶": "wanhuajing/xixili/surprised-blush.webp",
+      "脸红难过": "wanhuajing/xixili/sad-blush.webp",
+      "脸红生气": "wanhuajing/xixili/angry-blush.webp",
+      "脸红疑惑": "wanhuajing/xixili/puzzled-blush.webp",
+      "难过": "wanhuajing/xixili/sad.webp",
+      "生气": "wanhuajing/xixili/angry.webp",
+      "疑惑": "wanhuajing/xixili/puzzled.webp",
+      "大立绘": "wanhuajing/xixili/uniform.webp"
+     }
+    },
+    "觋夕摩": {
+     "slug": "xiximo",
+     "variants": {
+      "通常": "wanhuajing/xiximo/normal.webp",
+      "脸红通常": "wanhuajing/xiximo/normal-blush.webp",
+      "脸红生气": "wanhuajing/xiximo/angry-blush.webp",
+      "生气": "wanhuajing/xiximo/angry.webp",
+      "大立绘": "wanhuajing/xiximo/uniform.webp"
+     }
+    },
+    "御殿场镜子": {
+     "slug": "yudianchangjingzi",
+     "variants": {
+      "通常": "wanhuajing/yudianchangjingzi/normal.webp",
+      "脸红通常": "wanhuajing/yudianchangjingzi/normal-blush.webp",
+      "得意": "wanhuajing/yudianchangjingzi/smug.webp",
+      "腹黑笑": "wanhuajing/yudianchangjingzi/smirk.webp",
+      "高兴": "wanhuajing/yudianchangjingzi/happy.webp",
+      "惊讶": "wanhuajing/yudianchangjingzi/surprised.webp",
+      "脸红得意": "wanhuajing/yudianchangjingzi/smug-blush.webp",
+      "脸红腹黑笑": "wanhuajing/yudianchangjingzi/smirk-blush.webp",
+      "脸红高兴": "wanhuajing/yudianchangjingzi/happy-blush.webp",
+      "脸红惊讶": "wanhuajing/yudianchangjingzi/surprised-blush.webp",
+      "脸红难过": "wanhuajing/yudianchangjingzi/sad-blush.webp",
+      "脸红生气": "wanhuajing/yudianchangjingzi/angry-blush.webp",
+      "脸红疑惑": "wanhuajing/yudianchangjingzi/puzzled-blush.webp",
+      "难过": "wanhuajing/yudianchangjingzi/sad.webp",
+      "生气": "wanhuajing/yudianchangjingzi/angry.webp",
+      "疑惑": "wanhuajing/yudianchangjingzi/puzzled.webp",
+      "大立绘": "wanhuajing/yudianchangjingzi/uniform.webp"
+     }
+    }
+   }
+  },
+  "樱之诗": {
+   "slug": "yingzhishi",
+   "chars": {
+    "本间丽华": {
+     "slug": "benjianlihua",
+     "variants": {
+      "通常": "yingzhishi/benjianlihua/normal.webp",
+      "大立绘": "yingzhishi/benjianlihua/full.webp"
+     }
+    },
+    "冰川里奈": {
+     "slug": "bingchuanlinai",
+     "variants": {
+      "通常": "yingzhishi/bingchuanlinai/normal.webp",
+      "脸红通常": "yingzhishi/bingchuanlinai/normal-blush.webp",
+      "腹黑笑": "yingzhishi/bingchuanlinai/smirk.webp",
+      "高兴": "yingzhishi/bingchuanlinai/happy.webp",
+      "惊讶": "yingzhishi/bingchuanlinai/surprised.webp",
+      "脸红腹黑笑": "yingzhishi/bingchuanlinai/smirk-blush.webp",
+      "脸红高兴": "yingzhishi/bingchuanlinai/happy-blush.webp",
+      "脸红惊讶": "yingzhishi/bingchuanlinai/surprised-blush.webp",
+      "脸红难过": "yingzhishi/bingchuanlinai/sad-blush.webp",
+      "脸红生气": "yingzhishi/bingchuanlinai/angry-blush.webp",
+      "脸红疑惑": "yingzhishi/bingchuanlinai/puzzled-blush.webp",
+      "难过": "yingzhishi/bingchuanlinai/sad.webp",
+      "生气": "yingzhishi/bingchuanlinai/angry.webp",
+      "疑惑": "yingzhishi/bingchuanlinai/puzzled.webp",
+      "大立绘": "yingzhishi/bingchuanlinai/uniform.webp"
+     }
+    },
+    "冰川露莉莴": {
+     "slug": "bingchuanluliwo",
+     "variants": {
+      "通常": "yingzhishi/bingchuanluliwo/normal.webp",
+      "大立绘": "yingzhishi/bingchuanluliwo/full.webp"
+     }
+    },
+    "伯奇": {
+     "slug": "boqi",
+     "variants": {
+      "通常": "yingzhishi/boqi/normal.webp",
+      "大立绘": "yingzhishi/boqi/full.webp"
+     }
+    },
+    "草薙健一郎": {
+     "slug": "caotijianyilang",
+     "variants": {
+      "通常": "yingzhishi/caotijianyilang/normal.webp"
+     }
+    },
+    "草薙直哉": {
+     "slug": "caotizhizai",
+     "variants": {
+      "通常": "yingzhishi/caotizhizai/normal.webp"
+     }
+    },
+    "川内野铃菜": {
+     "slug": "chuanneiyelingcai",
+     "variants": {
+      "通常": "yingzhishi/chuanneiyelingcai/normal.webp",
+      "大立绘": "yingzhishi/chuanneiyelingcai/full.webp"
+     }
+    },
+    "川内野优美": {
+     "slug": "chuanneiyeyoumei",
+     "variants": {
+      "通常": "yingzhishi/chuanneiyeyoumei/normal.webp",
+      "脸红通常": "yingzhishi/chuanneiyeyoumei/normal-blush.webp",
+      "腹黑笑": "yingzhishi/chuanneiyeyoumei/smirk.webp",
+      "高兴": "yingzhishi/chuanneiyeyoumei/happy.webp",
+      "惊讶": "yingzhishi/chuanneiyeyoumei/surprised.webp",
+      "脸红腹黑笑": "yingzhishi/chuanneiyeyoumei/smirk-blush.webp",
+      "脸红高兴": "yingzhishi/chuanneiyeyoumei/happy-blush.webp",
+      "脸红惊讶": "yingzhishi/chuanneiyeyoumei/surprised-blush.webp",
+      "脸红难过": "yingzhishi/chuanneiyeyoumei/sad-blush.webp",
+      "脸红生气": "yingzhishi/chuanneiyeyoumei/angry-blush.webp",
+      "脸红疑惑": "yingzhishi/chuanneiyeyoumei/puzzled-blush.webp",
+      "难过": "yingzhishi/chuanneiyeyoumei/sad.webp",
+      "生气": "yingzhishi/chuanneiyeyoumei/angry.webp",
+      "疑惑": "yingzhishi/chuanneiyeyoumei/puzzled.webp",
+      "大立绘": "yingzhishi/chuanneiyeyoumei/uniform.webp"
+     }
+    },
+    "吹": {
+     "slug": "chui",
+     "variants": {
+      "通常": "yingzhishi/chui/normal.webp",
+      "大立绘": "yingzhishi/chui/full.webp"
+     }
+    },
+    "东浪见": {
+     "slug": "donglangjian",
+     "variants": {
+      "通常": "yingzhishi/donglangjian/normal.webp"
+     }
+    },
+    "恩田宁": {
+     "slug": "entianning",
+     "variants": {
+      "通常": "yingzhishi/entianning/normal.webp",
+      "大立绘": "yingzhishi/entianning/full.webp"
+     }
+    },
+    "栗山奈津子": {
+     "slug": "lishannaijinzi",
+     "variants": {
+      "通常": "yingzhishi/lishannaijinzi/normal.webp",
+      "大立绘": "yingzhishi/lishannaijinzi/full.webp"
+     }
+    },
+    "泷泽托马斯": {
+     "slug": "longzetuomasi",
+     "variants": {
+      "通常": "yingzhishi/longzetuomasi/normal.webp"
+     }
+    },
+    "麦提弗里曼": {
+     "slug": "maitifuliman",
+     "variants": {
+      "通常": "yingzhishi/maitifuliman/normal.webp"
+     }
+    },
+    "明石亘": {
+     "slug": "mingshigen",
+     "variants": {
+      "通常": "yingzhishi/mingshigen/normal.webp",
+      "大立绘": "yingzhishi/mingshigen/full.webp"
+     }
+    },
+    "明石小牧": {
+     "slug": "mingshixiaomu",
+     "variants": {
+      "通常": "yingzhishi/mingshixiaomu/normal.webp",
+      "大立绘": "yingzhishi/mingshixiaomu/outfit1.webp"
+     }
+    },
+    "明石小沙智": {
+     "slug": "mingshixiaoshazhi",
+     "variants": {
+      "通常": "yingzhishi/mingshixiaoshazhi/normal.webp",
+      "大立绘": "yingzhishi/mingshixiaoshazhi/outfit1.webp"
+     }
+    },
+    "鸟谷纱希": {
+     "slug": "niaogushaxi",
+     "variants": {
+      "通常": "yingzhishi/niaogushaxi/normal.webp",
+      "大立绘": "yingzhishi/niaogushaxi/full.webp"
+     }
+    },
+    "鸟谷真琴": {
+     "slug": "niaoguzhenqin",
+     "variants": {
+      "通常": "yingzhishi/niaoguzhenqin/normal.webp",
+      "脸红通常": "yingzhishi/niaoguzhenqin/normal-blush.webp",
+      "高兴": "yingzhishi/niaoguzhenqin/happy.webp",
+      "惊讶": "yingzhishi/niaoguzhenqin/surprised.webp",
+      "脸红高兴": "yingzhishi/niaoguzhenqin/happy-blush.webp",
+      "脸红惊讶": "yingzhishi/niaoguzhenqin/surprised-blush.webp",
+      "脸红难过": "yingzhishi/niaoguzhenqin/sad-blush.webp",
+      "脸红生气": "yingzhishi/niaoguzhenqin/angry-blush.webp",
+      "脸红疑惑": "yingzhishi/niaoguzhenqin/puzzled-blush.webp",
+      "难过": "yingzhishi/niaoguzhenqin/sad.webp",
+      "生气": "yingzhishi/niaoguzhenqin/angry.webp",
+      "疑惑": "yingzhishi/niaoguzhenqin/puzzled.webp",
+      "大立绘": "yingzhishi/niaoguzhenqin/uniform.webp"
+     }
+    },
+    "片贝巧实": {
+     "slug": "pianbeiqiaoshi",
+     "variants": {
+      "通常": "yingzhishi/pianbeiqiaoshi/normal.webp"
+     }
+    },
+    "若田清二郎": {
+     "slug": "ruotianqingerlang",
+     "variants": {
+      "通常": "yingzhishi/ruotianqingerlang/normal.webp"
+     }
+    },
+    "夏目圭": {
+     "slug": "xiamugui",
+     "variants": {
+      "通常": "yingzhishi/xiamugui/normal.webp",
+      "大立绘": "yingzhishi/xiamugui/full.webp"
+     }
+    },
+    "夏目蓝": {
+     "slug": "xiamulan",
+     "variants": {
+      "通常": "yingzhishi/xiamulan/normal.webp",
+      "脸红通常": "yingzhishi/xiamulan/normal-blush.webp",
+      "腹黑笑": "yingzhishi/xiamulan/smirk.webp",
+      "高兴": "yingzhishi/xiamulan/happy.webp",
+      "惊讶": "yingzhishi/xiamulan/surprised.webp",
+      "脸红腹黑笑": "yingzhishi/xiamulan/smirk-blush.webp",
+      "脸红高兴": "yingzhishi/xiamulan/happy-blush.webp",
+      "脸红惊讶": "yingzhishi/xiamulan/surprised-blush.webp",
+      "脸红难过": "yingzhishi/xiamulan/sad-blush.webp",
+      "脸红生气": "yingzhishi/xiamulan/angry-blush.webp",
+      "脸红疑惑": "yingzhishi/xiamulan/puzzled-blush.webp",
+      "难过": "yingzhishi/xiamulan/sad.webp",
+      "生气": "yingzhishi/xiamulan/angry.webp",
+      "疑惑": "yingzhishi/xiamulan/puzzled.webp",
+      "大立绘": "yingzhishi/xiamulan/outfit1.webp"
+     }
+    },
+    "夏目雫": {
+     "slug": "xiamuna",
+     "variants": {
+      "通常": "yingzhishi/xiamuna/normal.webp",
+      "脸红通常": "yingzhishi/xiamuna/normal-blush.webp",
+      "腹黑笑": "yingzhishi/xiamuna/smirk.webp",
+      "高兴": "yingzhishi/xiamuna/happy.webp",
+      "惊讶": "yingzhishi/xiamuna/surprised.webp",
+      "脸红腹黑笑": "yingzhishi/xiamuna/smirk-blush.webp",
+      "脸红高兴": "yingzhishi/xiamuna/happy-blush.webp",
+      "脸红惊讶": "yingzhishi/xiamuna/surprised-blush.webp",
+      "脸红难过": "yingzhishi/xiamuna/sad-blush.webp",
+      "脸红生气": "yingzhishi/xiamuna/angry-blush.webp",
+      "脸红疑惑": "yingzhishi/xiamuna/puzzled-blush.webp",
+      "难过": "yingzhishi/xiamuna/sad.webp",
+      "生气": "yingzhishi/xiamuna/angry.webp",
+      "疑惑": "yingzhishi/xiamuna/puzzled.webp",
+      "大立绘": "yingzhishi/xiamuna/uniform.webp"
+     }
+    },
+    "咲崎樱子": {
+     "slug": "xiaoqiyingzi",
+     "variants": {
+      "通常": "yingzhishi/xiaoqiyingzi/normal.webp",
+      "大立绘": "yingzhishi/xiaoqiyingzi/full.webp"
+     }
+    },
+    "一宫": {
+     "slug": "yigong",
+     "variants": {
+      "通常": "yingzhishi/yigong/normal.webp"
+     }
+    },
+    "御樱稟": {
+     "slug": "yuyingbing",
+     "variants": {
+      "通常": "yingzhishi/yuyingbing/normal.webp",
+      "脸红通常": "yingzhishi/yuyingbing/normal-blush.webp",
+      "腹黑笑": "yingzhishi/yuyingbing/smirk.webp",
+      "高兴": "yingzhishi/yuyingbing/happy.webp",
+      "惊讶": "yingzhishi/yuyingbing/surprised.webp",
+      "脸红腹黑笑": "yingzhishi/yuyingbing/smirk-blush.webp",
+      "脸红高兴": "yingzhishi/yuyingbing/happy-blush.webp",
+      "脸红惊讶": "yingzhishi/yuyingbing/surprised-blush.webp",
+      "脸红难过": "yingzhishi/yuyingbing/sad-blush.webp",
+      "脸红生气": "yingzhishi/yuyingbing/angry-blush.webp",
+      "难过": "yingzhishi/yuyingbing/sad.webp",
+      "生气": "yingzhishi/yuyingbing/angry.webp",
+      "疑惑": "yingzhishi/yuyingbing/puzzled.webp",
+      "大立绘": "yingzhishi/yuyingbing/uniform.webp"
+     }
+    },
+    "御樱雄三": {
+     "slug": "yuyingxiongsan",
+     "variants": {
+      "通常": "yingzhishi/yuyingxiongsan/normal.webp"
+     }
+    },
+    "长山香奈": {
+     "slug": "zhangshanxiangnai",
+     "variants": {
+      "通常": "yingzhishi/zhangshanxiangnai/normal.webp",
+      "大立绘": "yingzhishi/zhangshanxiangnai/full.webp"
+     }
+    },
+    "中村水菜": {
+     "slug": "zhongcunshuicai",
+     "variants": {
+      "通常": "yingzhishi/zhongcunshuicai/normal.webp",
+      "大立绘": "yingzhishi/zhongcunshuicai/full.webp"
+     }
+    },
+    "中村义贞": {
+     "slug": "zhongcunyizhen",
+     "variants": {
+      "通常": "yingzhishi/zhongcunyizhen/normal.webp"
+     }
+    },
+    "中村章一": {
+     "slug": "zhongcunzhangyi",
+     "variants": {
+      "通常": "yingzhishi/zhongcunzhangyi/normal.webp"
+     }
+    },
+    "柊乃乃未": {
+     "slug": "zhongnainaiwei",
+     "variants": {
+      "通常": "yingzhishi/zhongnainaiwei/normal.webp",
+      "大立绘": "yingzhishi/zhongnainaiwei/full.webp"
+     }
+    },
+    "草薙直绪": {
+     "slug": "caotizhixu",
+     "variants": {
+      "通常": "yingzhishi/caotizhixu/normal.webp"
+     }
+    }
+   }
+  },
+  "9nine": {
+   "slug": "9nine",
+   "chars": {
+    "成濑沙月": {
+     "slug": "chenglaishayue",
+     "variants": {
+      "通常": "9nine/chenglaishayue/normal.webp",
+      "高兴": "9nine/chenglaishayue/happy.webp",
+      "惊讶": "9nine/chenglaishayue/surprised.webp",
+      "难过": "9nine/chenglaishayue/sad.webp",
+      "生气": "9nine/chenglaishayue/angry.webp",
+      "疑惑": "9nine/chenglaishayue/puzzled.webp"
+     }
+    },
+    "九条都": {
+     "slug": "jiutiaodou",
+     "variants": {
+      "通常": "9nine/jiutiaodou/normal.webp",
+      "脸红通常": "9nine/jiutiaodou/normal-blush.webp",
+      "高兴": "9nine/jiutiaodou/happy.webp",
+      "惊讶": "9nine/jiutiaodou/surprised.webp",
+      "脸红高兴": "9nine/jiutiaodou/happy-blush.webp",
+      "脸红惊讶": "9nine/jiutiaodou/surprised-blush.webp",
+      "脸红难过": "9nine/jiutiaodou/sad-blush.webp",
+      "脸红生气": "9nine/jiutiaodou/angry-blush.webp",
+      "脸红疑惑": "9nine/jiutiaodou/puzzled-blush.webp",
+      "难过": "9nine/jiutiaodou/sad.webp",
+      "生气": "9nine/jiutiaodou/angry.webp",
+      "疑惑": "9nine/jiutiaodou/puzzled.webp",
+      "大立绘": "9nine/jiutiaodou/full.webp"
+     }
+    },
+    "高峰莲夜": {
+     "slug": "gaofenglianye",
+     "variants": {
+      "通常": "9nine/gaofenglianye/normal.webp"
+     }
+    },
+    "苏菲缇雅": {
+     "slug": "sufeitiya",
+     "variants": {
+      "通常": "9nine/sufeitiya/normal.webp"
+     }
+    },
+    "结城希亚": {
+     "slug": "jiechengxiya",
+     "variants": {
+      "通常": "9nine/jiechengxiya/normal.webp",
+      "脸红通常": "9nine/jiechengxiya/normal-blush.webp",
+      "高兴": "9nine/jiechengxiya/happy.webp",
+      "脸红高兴": "9nine/jiechengxiya/happy-blush.webp",
+      "脸红难过": "9nine/jiechengxiya/sad-blush.webp",
+      "脸红生气": "9nine/jiechengxiya/angry-blush.webp",
+      "脸红疑惑": "9nine/jiechengxiya/puzzled-blush.webp",
+      "难过": "9nine/jiechengxiya/sad.webp",
+      "生气": "9nine/jiechengxiya/angry.webp",
+      "疑惑": "9nine/jiechengxiya/puzzled.webp",
+      "大立绘": "9nine/jiechengxiya/full.webp"
+     }
+    },
+    "香坂春风": {
+     "slug": "xiangbanchunfeng",
+     "variants": {
+      "通常": "9nine/xiangbanchunfeng/normal.webp",
+      "脸红通常": "9nine/xiangbanchunfeng/normal-blush.webp",
+      "得意": "9nine/xiangbanchunfeng/smug.webp",
+      "腹黑笑": "9nine/xiangbanchunfeng/smirk.webp",
+      "高兴": "9nine/xiangbanchunfeng/happy.webp",
+      "惊讶": "9nine/xiangbanchunfeng/surprised.webp",
+      "脸红得意": "9nine/xiangbanchunfeng/smug-blush.webp",
+      "脸红腹黑笑": "9nine/xiangbanchunfeng/smirk-blush.webp",
+      "脸红高兴": "9nine/xiangbanchunfeng/happy-blush.webp",
+      "脸红惊讶": "9nine/xiangbanchunfeng/surprised-blush.webp",
+      "脸红难过": "9nine/xiangbanchunfeng/sad-blush.webp",
+      "脸红生气": "9nine/xiangbanchunfeng/angry-blush.webp",
+      "脸红疑惑": "9nine/xiangbanchunfeng/puzzled-blush.webp",
+      "难过": "9nine/xiangbanchunfeng/sad.webp",
+      "生气": "9nine/xiangbanchunfeng/angry.webp",
+      "疑惑": "9nine/xiangbanchunfeng/puzzled.webp",
+      "大立绘": "9nine/xiangbanchunfeng/full.webp"
+     }
+    },
+    "新海天": {
+     "slug": "xinhaitian",
+     "variants": {
+      "通常": "9nine/xinhaitian/normal.webp",
+      "脸红通常": "9nine/xinhaitian/normal-blush.webp",
+      "得意": "9nine/xinhaitian/smug.webp",
+      "高兴": "9nine/xinhaitian/happy.webp",
+      "惊讶": "9nine/xinhaitian/surprised.webp",
+      "脸红得意": "9nine/xinhaitian/smug-blush.webp",
+      "脸红高兴": "9nine/xinhaitian/happy-blush.webp",
+      "脸红惊讶": "9nine/xinhaitian/surprised-blush.webp",
+      "脸红难过": "9nine/xinhaitian/sad-blush.webp",
+      "脸红生气": "9nine/xinhaitian/angry-blush.webp",
+      "脸红思考": "9nine/xinhaitian/thinking-blush.webp",
+      "脸红疑惑": "9nine/xinhaitian/puzzled-blush.webp",
+      "难过": "9nine/xinhaitian/sad.webp",
+      "生气": "9nine/xinhaitian/angry.webp",
+      "思考": "9nine/xinhaitian/thinking.webp",
+      "疑惑": "9nine/xinhaitian/puzzled.webp",
+      "大立绘": "9nine/xinhaitian/full.webp"
+     }
+    },
+    "新海霞": {
+     "slug": "xinhaixia",
+     "variants": {
+      "通常": "9nine/xinhaixia/normal.webp",
+      "大立绘": "9nine/xinhaixia/full.webp"
+     }
+    },
+    "新海翔": {
+     "slug": "xinhaixiang",
+     "variants": {
+      "通常": "9nine/xinhaixiang/normal.webp"
+     }
+    },
+    "幽灵": {
+     "slug": "youling",
+     "variants": {
+      "通常": "9nine/youling/normal.webp",
+      "高兴": "9nine/youling/happy.webp"
+     }
+    },
+    "深泽与一": {
+     "slug": "shenzeyuyi",
+     "variants": {
+      "通常": "9nine/shenzeyuyi/normal.webp"
+     }
+    }
+   }
+  },
+  "花子": {
+   "slug": "huazi",
+   "chars": {
+    "花子": {
+     "slug": "huazi",
+     "variants": {
+      "通常": "huazi/huazi/normal.webp",
+      "脸红通常": "huazi/huazi/normal-blush.webp",
+      "得意": "huazi/huazi/smug.webp",
+      "腹黑笑": "huazi/huazi/smirk.webp",
+      "高兴": "huazi/huazi/happy.webp",
+      "惊讶": "huazi/huazi/surprised.webp",
+      "脸红得意": "huazi/huazi/smug-blush.webp",
+      "脸红腹黑笑": "huazi/huazi/smirk-blush.webp",
+      "脸红高兴": "huazi/huazi/happy-blush.webp",
+      "脸红惊讶": "huazi/huazi/surprised-blush.webp",
+      "脸红难过": "huazi/huazi/sad-blush.webp",
+      "脸红生气": "huazi/huazi/angry-blush.webp",
+      "脸红疑惑": "huazi/huazi/puzzled-blush.webp",
+      "难过": "huazi/huazi/sad.webp",
+      "生气": "huazi/huazi/angry.webp",
+      "疑惑": "huazi/huazi/puzzled.webp",
+      "大立绘": "huazi/huazi/full.webp"
+     }
+    }
+   }
+  },
+  "少女领域": {
+   "slug": "shaonvlingyu",
+   "chars": {
+    "大垣日向": {
+     "slug": "dayuanrixiang",
+     "variants": {
+      "通常": "shaonvlingyu/dayuanrixiang/normal.webp",
+      "脸红通常": "shaonvlingyu/dayuanrixiang/normal-blush.webp",
+      "得意": "shaonvlingyu/dayuanrixiang/smug.webp",
+      "高兴": "shaonvlingyu/dayuanrixiang/happy.webp",
+      "惊讶": "shaonvlingyu/dayuanrixiang/surprised.webp",
+      "脸红得意": "shaonvlingyu/dayuanrixiang/smug-blush.webp",
+      "脸红高兴": "shaonvlingyu/dayuanrixiang/happy-blush.webp",
+      "脸红惊讶": "shaonvlingyu/dayuanrixiang/surprised-blush.webp",
+      "脸红难过": "shaonvlingyu/dayuanrixiang/sad-blush.webp",
+      "脸红生气": "shaonvlingyu/dayuanrixiang/angry-blush.webp",
+      "脸红疑惑": "shaonvlingyu/dayuanrixiang/puzzled-blush.webp",
+      "难过": "shaonvlingyu/dayuanrixiang/sad.webp",
+      "生气": "shaonvlingyu/dayuanrixiang/angry.webp",
+      "疑惑": "shaonvlingyu/dayuanrixiang/puzzled.webp",
+      "大立绘": "shaonvlingyu/dayuanrixiang/full.webp"
+     }
+    },
+    "飞鸟凑": {
+     "slug": "feiniaocou",
+     "variants": {
+      "通常": "shaonvlingyu/feiniaocou/normal.webp",
+      "脸红通常": "shaonvlingyu/feiniaocou/normal-blush.webp",
+      "高兴": "shaonvlingyu/feiniaocou/happy.webp",
+      "惊讶": "shaonvlingyu/feiniaocou/surprised.webp",
+      "脸红高兴": "shaonvlingyu/feiniaocou/happy-blush.webp",
+      "脸红惊讶": "shaonvlingyu/feiniaocou/surprised-blush.webp",
+      "脸红难过": "shaonvlingyu/feiniaocou/sad-blush.webp",
+      "脸红生气": "shaonvlingyu/feiniaocou/angry-blush.webp",
+      "脸红思考": "shaonvlingyu/feiniaocou/thinking-blush.webp",
+      "脸红疑惑": "shaonvlingyu/feiniaocou/puzzled-blush.webp",
+      "难过": "shaonvlingyu/feiniaocou/sad.webp",
+      "生气": "shaonvlingyu/feiniaocou/angry.webp",
+      "思考": "shaonvlingyu/feiniaocou/thinking.webp",
+      "疑惑": "shaonvlingyu/feiniaocou/puzzled.webp",
+      "大立绘": "shaonvlingyu/feiniaocou/full.webp"
+     }
+    },
+    "贵船柚子": {
+     "slug": "guichuanyouzi",
+     "variants": {
+      "通常": "shaonvlingyu/guichuanyouzi/normal.webp",
+      "脸红通常": "shaonvlingyu/guichuanyouzi/normal-blush.webp",
+      "得意": "shaonvlingyu/guichuanyouzi/smug.webp",
+      "腹黑笑": "shaonvlingyu/guichuanyouzi/smirk.webp",
+      "高兴": "shaonvlingyu/guichuanyouzi/happy.webp",
+      "惊讶": "shaonvlingyu/guichuanyouzi/surprised.webp",
+      "脸红得意": "shaonvlingyu/guichuanyouzi/smug-blush.webp",
+      "脸红腹黑笑": "shaonvlingyu/guichuanyouzi/smirk-blush.webp",
+      "脸红高兴": "shaonvlingyu/guichuanyouzi/happy-blush.webp",
+      "脸红惊讶": "shaonvlingyu/guichuanyouzi/surprised-blush.webp",
+      "脸红难过": "shaonvlingyu/guichuanyouzi/sad-blush.webp",
+      "脸红生气": "shaonvlingyu/guichuanyouzi/angry-blush.webp",
+      "脸红疑惑": "shaonvlingyu/guichuanyouzi/puzzled-blush.webp",
+      "难过": "shaonvlingyu/guichuanyouzi/sad.webp",
+      "生气": "shaonvlingyu/guichuanyouzi/angry.webp",
+      "疑惑": "shaonvlingyu/guichuanyouzi/puzzled.webp",
+      "大立绘": "shaonvlingyu/guichuanyouzi/full.webp"
+     }
+    },
+    "皆见美结": {
+     "slug": "jiejianmeijie",
+     "variants": {
+      "通常": "shaonvlingyu/jiejianmeijie/normal.webp",
+      "脸红通常": "shaonvlingyu/jiejianmeijie/normal-blush.webp",
+      "腹黑笑": "shaonvlingyu/jiejianmeijie/smirk.webp",
+      "高兴": "shaonvlingyu/jiejianmeijie/happy.webp",
+      "惊讶": "shaonvlingyu/jiejianmeijie/surprised.webp",
+      "脸红腹黑笑": "shaonvlingyu/jiejianmeijie/smirk-blush.webp",
+      "脸红高兴": "shaonvlingyu/jiejianmeijie/happy-blush.webp",
+      "脸红惊讶": "shaonvlingyu/jiejianmeijie/surprised-blush.webp",
+      "脸红难过": "shaonvlingyu/jiejianmeijie/sad-blush.webp",
+      "脸红生气": "shaonvlingyu/jiejianmeijie/angry-blush.webp",
+      "脸红思考": "shaonvlingyu/jiejianmeijie/thinking-blush.webp",
+      "脸红疑惑": "shaonvlingyu/jiejianmeijie/puzzled-blush.webp",
+      "难过": "shaonvlingyu/jiejianmeijie/sad.webp",
+      "生气": "shaonvlingyu/jiejianmeijie/angry.webp",
+      "思考": "shaonvlingyu/jiejianmeijie/thinking.webp",
+      "疑惑": "shaonvlingyu/jiejianmeijie/puzzled.webp",
+      "大立绘": "shaonvlingyu/jiejianmeijie/full.webp"
+     }
+    },
+    "那波七海": {
+     "slug": "naboqihai",
+     "variants": {
+      "通常": "shaonvlingyu/naboqihai/normal.webp",
+      "大立绘": "shaonvlingyu/naboqihai/full.webp"
+     }
+    },
+    "西园寺风莉": {
+     "slug": "xiyuansifengli",
+     "variants": {
+      "通常": "shaonvlingyu/xiyuansifengli/normal.webp",
+      "脸红通常": "shaonvlingyu/xiyuansifengli/normal-blush.webp",
+      "得意": "shaonvlingyu/xiyuansifengli/smug.webp",
+      "高兴": "shaonvlingyu/xiyuansifengli/happy.webp",
+      "惊讶": "shaonvlingyu/xiyuansifengli/surprised.webp",
+      "脸红得意": "shaonvlingyu/xiyuansifengli/smug-blush.webp",
+      "脸红高兴": "shaonvlingyu/xiyuansifengli/happy-blush.webp",
+      "脸红惊讶": "shaonvlingyu/xiyuansifengli/surprised-blush.webp",
+      "脸红难过": "shaonvlingyu/xiyuansifengli/sad-blush.webp",
+      "脸红生气": "shaonvlingyu/xiyuansifengli/angry-blush.webp",
+      "脸红疑惑": "shaonvlingyu/xiyuansifengli/puzzled-blush.webp",
+      "难过": "shaonvlingyu/xiyuansifengli/sad.webp",
+      "生气": "shaonvlingyu/xiyuansifengli/angry.webp",
+      "疑惑": "shaonvlingyu/xiyuansifengli/puzzled.webp",
+      "大立绘": "shaonvlingyu/xiyuansifengli/full.webp"
+     }
+    }
+   }
+  },
+  "旧卡示例": {
+   "slug": "jiukashili",
+   "chars": {
+    "玛丽·安": {
+     "slug": "mali-an",
+     "variants": {
+      "通常": "jiukashili/mali-an/normal.webp"
+     }
+    },
+    "克蕾雅": {
+     "slug": "keleiya",
+     "variants": {
+      "通常": "jiukashili/keleiya/normal.webp",
+      "脸红通常": "jiukashili/keleiya/normal-blush.webp",
+      "得意": "jiukashili/keleiya/smug.webp",
+      "脸红得意": "jiukashili/keleiya/smug-blush.webp",
+      "腹黑笑": "jiukashili/keleiya/smirk.webp",
+      "脸红腹黑笑": "jiukashili/keleiya/smirk-blush.webp",
+      "害羞": "jiukashili/keleiya/shy.webp",
+      "惊讶": "jiukashili/keleiya/surprised.webp",
+      "脸红惊讶": "jiukashili/keleiya/surprised-blush.webp",
+      "高兴": "jiukashili/keleiya/happy.webp",
+      "脸红高兴": "jiukashili/keleiya/happy-blush.webp",
+      "难过": "jiukashili/keleiya/sad.webp",
+      "脸红难过": "jiukashili/keleiya/sad-blush.webp",
+      "疑惑": "jiukashili/keleiya/puzzled.webp",
+      "脸红疑惑": "jiukashili/keleiya/puzzled-blush.webp",
+      "生气": "jiukashili/keleiya/angry.webp",
+      "脸红生气": "jiukashili/keleiya/angry-blush.webp",
+      "皱眉": "jiukashili/keleiya/frown.webp",
+      "脸红皱眉": "jiukashili/keleiya/frown-blush.webp",
+      "思考": "jiukashili/keleiya/thinking.webp",
+      "脸红思考": "jiukashili/keleiya/thinking-blush.webp",
+      "大立绘": "jiukashili/keleiya/full.webp"
+     }
+    }
+   }
+  },
+  "Summer Pockets REFLECTION BLUE": {
+   "slug": "summerpockets",
+   "chars": {
+    "䌷·文德斯": {
+     "slug": "tsumugi",
+     "variants": {
+      "thinking": "summerpockets/tsumugi/thinking.webp",
+      "surprised": "summerpockets/tsumugi/surprised.webp",
+      "uniform": "summerpockets/tsumugi/uniform.webp",
+      "angry": "summerpockets/tsumugi/angry.webp",
+      "puzzled": "summerpockets/tsumugi/puzzled.webp",
+      "blush": "summerpockets/tsumugi/blush.webp",
+      "outfit1": "summerpockets/tsumugi/outfit1.webp",
+      "outfit2": "summerpockets/tsumugi/outfit2.webp",
+      "outfit3": "summerpockets/tsumugi/outfit3.webp",
+      "normal": "summerpockets/tsumugi/normal.webp",
+      "sad": "summerpockets/tsumugi/sad.webp",
+      "happy": "summerpockets/tsumugi/happy.webp"
+     }
+    },
+    "七海": {
+     "slug": "nanami",
+     "variants": {
+      "normal": "summerpockets/nanami/normal.webp"
+     }
+    },
+    "三谷良一": {
+     "slug": "ryoichi",
+     "variants": {
+      "normal": "summerpockets/ryoichi/normal.webp"
+     }
+    },
+    "久岛鸥": {
+     "slug": "kamome",
+     "variants": {
+      "smug": "summerpockets/kamome/smug.webp",
+      "surprised": "summerpockets/kamome/surprised.webp",
+      "angry": "summerpockets/kamome/angry.webp",
+      "puzzled": "summerpockets/kamome/puzzled.webp",
+      "smug-blush": "summerpockets/kamome/smug-blush.webp",
+      "surprised-blush": "summerpockets/kamome/surprised-blush.webp",
+      "angry-blush": "summerpockets/kamome/angry-blush.webp",
+      "puzzled-blush": "summerpockets/kamome/puzzled-blush.webp",
+      "normal-blush": "summerpockets/kamome/normal-blush.webp",
+      "sad-blush": "summerpockets/kamome/sad-blush.webp",
+      "happy-blush": "summerpockets/kamome/happy-blush.webp",
+      "outfit1": "summerpockets/kamome/outfit1.webp",
+      "outfit2": "summerpockets/kamome/outfit2.webp",
+      "normal": "summerpockets/kamome/normal.webp",
+      "sad": "summerpockets/kamome/sad.webp",
+      "happy": "summerpockets/kamome/happy.webp"
+     }
+    },
+    "加纳天善": {
+     "slug": "tenzen",
+     "variants": {
+      "normal": "summerpockets/tenzen/normal.webp"
+     }
+    },
+    "加藤羽未": {
+     "slug": "umi",
+     "variants": {
+      "smug": "summerpockets/umi/smug.webp",
+      "surprised": "summerpockets/umi/surprised.webp",
+      "angry": "summerpockets/umi/angry.webp",
+      "puzzled": "summerpockets/umi/puzzled.webp",
+      "blush": "summerpockets/umi/blush.webp",
+      "outfit1": "summerpockets/umi/outfit1.webp",
+      "outfit2": "summerpockets/umi/outfit2.webp",
+      "normal": "summerpockets/umi/normal.webp",
+      "sad": "summerpockets/umi/sad.webp",
+      "happy": "summerpockets/umi/happy.webp"
+     }
+    },
+    "岬镜子": {
+     "slug": "kyoko",
+     "variants": {
+      "outfit1": "summerpockets/kyoko/outfit1.webp",
+      "outfit2": "summerpockets/kyoko/outfit2.webp",
+      "normal": "summerpockets/kyoko/normal.webp"
+     }
+    },
+    "水织静久": {
+     "slug": "shizuku",
+     "variants": {
+      "thinking": "summerpockets/shizuku/thinking.webp",
+      "surprised": "summerpockets/shizuku/surprised.webp",
+      "uniform": "summerpockets/shizuku/uniform.webp",
+      "angry": "summerpockets/shizuku/angry.webp",
+      "puzzled": "summerpockets/shizuku/puzzled.webp",
+      "blush": "summerpockets/shizuku/blush.webp",
+      "outfit1": "summerpockets/shizuku/outfit1.webp",
+      "outfit2": "summerpockets/shizuku/outfit2.webp",
+      "outfit3": "summerpockets/shizuku/outfit3.webp",
+      "normal": "summerpockets/shizuku/normal.webp",
+      "sad": "summerpockets/shizuku/sad.webp",
+      "happy": "summerpockets/shizuku/happy.webp"
+     }
+    },
+    "神山识": {
+     "slug": "shiki",
+     "variants": {
+      "thinking": "summerpockets/shiki/thinking.webp",
+      "surprised": "summerpockets/shiki/surprised.webp",
+      "uniform": "summerpockets/shiki/uniform.webp",
+      "angry": "summerpockets/shiki/angry.webp",
+      "puzzled": "summerpockets/shiki/puzzled.webp",
+      "blush": "summerpockets/shiki/blush.webp",
+      "outfit1": "summerpockets/shiki/outfit1.webp",
+      "normal": "summerpockets/shiki/normal.webp",
+      "sad": "summerpockets/shiki/sad.webp",
+      "happy": "summerpockets/shiki/happy.webp"
+     }
+    },
+    "稻荷": {
+     "slug": "inari",
+     "variants": {
+      "normal": "summerpockets/inari/normal.webp",
+      "full": "summerpockets/inari/full.webp"
+     }
+    },
+    "空门苍": {
+     "slug": "ao",
+     "variants": {
+      "smug": "summerpockets/ao/smug.webp",
+      "surprised": "summerpockets/ao/surprised.webp",
+      "uniform": "summerpockets/ao/uniform.webp",
+      "angry": "summerpockets/ao/angry.webp",
+      "puzzled": "summerpockets/ao/puzzled.webp",
+      "smug-blush": "summerpockets/ao/smug-blush.webp",
+      "surprised-blush": "summerpockets/ao/surprised-blush.webp",
+      "angry-blush": "summerpockets/ao/angry-blush.webp",
+      "puzzled-blush": "summerpockets/ao/puzzled-blush.webp",
+      "smirk-blush": "summerpockets/ao/smirk-blush.webp",
+      "normal-blush": "summerpockets/ao/normal-blush.webp",
+      "sad-blush": "summerpockets/ao/sad-blush.webp",
+      "happy-blush": "summerpockets/ao/happy-blush.webp",
+      "smirk": "summerpockets/ao/smirk.webp",
+      "outfit1": "summerpockets/ao/outfit1.webp",
+      "outfit2": "summerpockets/ao/outfit2.webp",
+      "normal": "summerpockets/ao/normal.webp",
+      "sad": "summerpockets/ao/sad.webp",
+      "happy": "summerpockets/ao/happy.webp"
+     }
+    },
+    "空门蓝": {
+     "slug": "ai",
+     "variants": {
+      "normal": "summerpockets/ai/normal.webp"
+     }
+    },
+    "野村美希": {
+     "slug": "miki",
+     "variants": {
+      "thinking": "summerpockets/miki/thinking.webp",
+      "surprised": "summerpockets/miki/surprised.webp",
+      "angry": "summerpockets/miki/angry.webp",
+      "puzzled": "summerpockets/miki/puzzled.webp",
+      "blush": "summerpockets/miki/blush.webp",
+      "outfit1": "summerpockets/miki/outfit1.webp",
+      "outfit2": "summerpockets/miki/outfit2.webp",
+      "normal": "summerpockets/miki/normal.webp",
+      "sad": "summerpockets/miki/sad.webp",
+      "happy": "summerpockets/miki/happy.webp"
+     }
+    },
+    "鸣濑小鸠": {
+     "slug": "kobato",
+     "variants": {
+      "normal": "summerpockets/kobato/normal.webp"
+     }
+    },
+    "鸣濑白羽": {
+     "slug": "shiroha",
+     "variants": {
+      "smug": "summerpockets/shiroha/smug.webp",
+      "surprised": "summerpockets/shiroha/surprised.webp",
+      "angry": "summerpockets/shiroha/angry.webp",
+      "puzzled": "summerpockets/shiroha/puzzled.webp",
+      "blush": "summerpockets/shiroha/blush.webp",
+      "normal": "summerpockets/shiroha/normal.webp",
+      "sad": "summerpockets/shiroha/sad.webp",
+      "happy": "summerpockets/shiroha/happy.webp"
+     }
+    }
+   }
+  },
+  "恋爱？我就借走了哦！": {
+   "slug": "lianai",
+   "chars": {
+    "天满八纯": {
+     "slug": "hasumi",
+     "variants": {
+      "smug": "lianai/hasumi/smug.webp",
+      "surprised": "lianai/hasumi/surprised.webp",
+      "uniform": "lianai/hasumi/uniform.webp",
+      "angry": "lianai/hasumi/angry.webp",
+      "puzzled": "lianai/hasumi/puzzled.webp",
+      "blush": "lianai/hasumi/blush.webp",
+      "smirk": "lianai/hasumi/smirk.webp",
+      "outfit1": "lianai/hasumi/outfit1.webp",
+      "outfit2": "lianai/hasumi/outfit2.webp",
+      "outfit3": "lianai/hasumi/outfit3.webp",
+      "normal": "lianai/hasumi/normal.webp",
+      "sad": "lianai/hasumi/sad.webp",
+      "happy": "lianai/hasumi/happy.webp"
+     }
+    },
+    "小关桃子": {
+     "slug": "momoko",
+     "variants": {
+      "smug": "lianai/momoko/smug.webp",
+      "thinking": "lianai/momoko/thinking.webp",
+      "surprised": "lianai/momoko/surprised.webp",
+      "uniform": "lianai/momoko/uniform.webp",
+      "angry": "lianai/momoko/angry.webp",
+      "puzzled": "lianai/momoko/puzzled.webp",
+      "blush": "lianai/momoko/blush.webp",
+      "outfit1": "lianai/momoko/outfit1.webp",
+      "outfit2": "lianai/momoko/outfit2.webp",
+      "normal": "lianai/momoko/normal.webp",
+      "sad": "lianai/momoko/sad.webp",
+      "happy": "lianai/momoko/happy.webp"
+     }
+    },
+    "新海月": {
+     "slug": "tsuki",
+     "variants": {
+      "smug": "lianai/tsuki/smug.webp",
+      "surprised": "lianai/tsuki/surprised.webp",
+      "angry": "lianai/tsuki/angry.webp",
+      "puzzled": "lianai/tsuki/puzzled.webp",
+      "blush": "lianai/tsuki/blush.webp",
+      "smirk": "lianai/tsuki/smirk.webp",
+      "outfit1": "lianai/tsuki/outfit1.webp",
+      "outfit2": "lianai/tsuki/outfit2.webp",
+      "normal": "lianai/tsuki/normal.webp",
+      "sad": "lianai/tsuki/sad.webp",
+      "happy": "lianai/tsuki/happy.webp"
+     }
+    },
+    "泉千夏": {
+     "slug": "chinatsu",
+     "variants": {
+      "smug": "lianai/chinatsu/smug.webp",
+      "surprised": "lianai/chinatsu/surprised.webp",
+      "uniform": "lianai/chinatsu/uniform.webp",
+      "angry": "lianai/chinatsu/angry.webp",
+      "puzzled": "lianai/chinatsu/puzzled.webp",
+      "blush": "lianai/chinatsu/blush.webp",
+      "smirk": "lianai/chinatsu/smirk.webp",
+      "outfit1": "lianai/chinatsu/outfit1.webp",
+      "outfit2": "lianai/chinatsu/outfit2.webp",
+      "normal": "lianai/chinatsu/normal.webp",
+      "sad": "lianai/chinatsu/sad.webp",
+      "happy": "lianai/chinatsu/happy.webp"
+     }
+    },
+    "泉子夏": {
+     "slug": "konatsu",
+     "variants": {
+      "smug": "lianai/konatsu/smug.webp",
+      "surprised": "lianai/konatsu/surprised.webp",
+      "uniform": "lianai/konatsu/uniform.webp",
+      "angry": "lianai/konatsu/angry.webp",
+      "puzzled": "lianai/konatsu/puzzled.webp",
+      "blush": "lianai/konatsu/blush.webp",
+      "outfit1": "lianai/konatsu/outfit1.webp",
+      "outfit2": "lianai/konatsu/outfit2.webp",
+      "outfit3": "lianai/konatsu/outfit3.webp",
+      "normal": "lianai/konatsu/normal.webp",
+      "sad": "lianai/konatsu/sad.webp",
+      "happy": "lianai/konatsu/happy.webp"
+     }
+    },
+    "濑川绘未": {
+     "slug": "emi",
+     "variants": {
+      "smug": "lianai/emi/smug.webp",
+      "thinking": "lianai/emi/thinking.webp",
+      "surprised": "lianai/emi/surprised.webp",
+      "uniform": "lianai/emi/uniform.webp",
+      "angry": "lianai/emi/angry.webp",
+      "puzzled": "lianai/emi/puzzled.webp",
+      "blush": "lianai/emi/blush.webp",
+      "outfit1": "lianai/emi/outfit1.webp",
+      "outfit2": "lianai/emi/outfit2.webp",
+      "outfit3": "lianai/emi/outfit3.webp",
+      "outfit4": "lianai/emi/outfit4.webp",
+      "normal": "lianai/emi/normal.webp",
+      "sad": "lianai/emi/sad.webp",
+      "happy": "lianai/emi/happy.webp"
+     }
+    },
+    "空路椿": {
+     "slug": "tsubaki",
+     "variants": {
+      "smug": "lianai/tsubaki/smug.webp",
+      "thinking": "lianai/tsubaki/thinking.webp",
+      "surprised": "lianai/tsubaki/surprised.webp",
+      "angry": "lianai/tsubaki/angry.webp",
+      "puzzled": "lianai/tsubaki/puzzled.webp",
+      "blush": "lianai/tsubaki/blush.webp",
+      "smirk": "lianai/tsubaki/smirk.webp",
+      "outfit1": "lianai/tsubaki/outfit1.webp",
+      "outfit2": "lianai/tsubaki/outfit2.webp",
+      "outfit3": "lianai/tsubaki/outfit3.webp",
+      "outfit4": "lianai/tsubaki/outfit4.webp",
+      "normal": "lianai/tsubaki/normal.webp",
+      "sad": "lianai/tsubaki/sad.webp",
+      "happy": "lianai/tsubaki/happy.webp"
+     }
+    },
+    "美滨咲希": {
+     "slug": "saki",
+     "variants": {
+      "blush": "lianai/saki/blush.webp",
+      "normal": "lianai/saki/normal.webp"
+     }
+    },
+    "远山爱季": {
+     "slug": "aiki",
+     "variants": {
+      "normal": "lianai/aiki/normal.webp"
+     }
+    }
+   }
+  },
+  "水葬银币的伊斯特里亚": {
+   "slug": "shuizang",
+   "chars": {
+    "久末紫乃": {
+     "slug": "shino",
+     "variants": {
+      "surprised": "shuizang/shino/surprised.webp",
+      "angry": "shuizang/shino/angry.webp",
+      "puzzled": "shuizang/shino/puzzled.webp",
+      "blush": "shuizang/shino/blush.webp",
+      "outfit1": "shuizang/shino/outfit1.webp",
+      "normal": "shuizang/shino/normal.webp",
+      "sad": "shuizang/shino/sad.webp",
+      "happy": "shuizang/shino/happy.webp"
+     }
+    },
+    "久末紫子": {
+     "slug": "shiko",
+     "variants": {
+      "smug": "shuizang/shiko/smug.webp",
+      "surprised": "shuizang/shiko/surprised.webp",
+      "angry": "shuizang/shiko/angry.webp",
+      "puzzled": "shuizang/shiko/puzzled.webp",
+      "blush": "shuizang/shiko/blush.webp",
+      "smirk": "shuizang/shiko/smirk.webp",
+      "outfit1": "shuizang/shiko/outfit1.webp",
+      "normal": "shuizang/shiko/normal.webp",
+      "sad": "shuizang/shiko/sad.webp",
+      "happy": "shuizang/shiko/happy.webp"
+     }
+    },
+    "井土谷祈吏": {
+     "slug": "kiri",
+     "variants": {
+      "outfit1": "shuizang/kiri/outfit1.webp",
+      "normal": "shuizang/kiri/normal.webp"
+     }
+    },
+    "八椚红叶": {
+     "slug": "momiji",
+     "variants": {
+      "smug": "shuizang/momiji/smug.webp",
+      "surprised": "shuizang/momiji/surprised.webp",
+      "angry": "shuizang/momiji/angry.webp",
+      "puzzled": "shuizang/momiji/puzzled.webp",
+      "blush": "shuizang/momiji/blush.webp",
+      "smirk": "shuizang/momiji/smirk.webp",
+      "outfit1": "shuizang/momiji/outfit1.webp",
+      "outfit2": "shuizang/momiji/outfit2.webp",
+      "normal": "shuizang/momiji/normal.webp",
+      "sad": "shuizang/momiji/sad.webp"
+     }
+    },
+    "安针冢逸美": {
+     "slug": "itsumi",
+     "variants": {
+      "outfit1": "shuizang/itsumi/outfit1.webp",
+      "normal": "shuizang/itsumi/normal.webp"
+     }
+    },
+    "小不动摇": {
+     "slug": "yura",
+     "variants": {
+      "smug": "shuizang/yura/smug.webp",
+      "thinking": "shuizang/yura/thinking.webp",
+      "surprised": "shuizang/yura/surprised.webp",
+      "uniform": "shuizang/yura/uniform.webp",
+      "angry": "shuizang/yura/angry.webp",
+      "puzzled": "shuizang/yura/puzzled.webp",
+      "blush": "shuizang/yura/blush.webp",
+      "outfit1": "shuizang/yura/outfit1.webp",
+      "outfit2": "shuizang/yura/outfit2.webp",
+      "outfit3": "shuizang/yura/outfit3.webp",
+      "normal": "shuizang/yura/normal.webp",
+      "sad": "shuizang/yura/sad.webp",
+      "happy": "shuizang/yura/happy.webp"
+     }
+    },
+    "汐入玖玖里": {
+     "slug": "kukuri",
+     "variants": {
+      "smug": "shuizang/kukuri/smug.webp",
+      "thinking": "shuizang/kukuri/thinking.webp",
+      "surprised": "shuizang/kukuri/surprised.webp",
+      "uniform": "shuizang/kukuri/uniform.webp",
+      "angry": "shuizang/kukuri/angry.webp",
+      "puzzled": "shuizang/kukuri/puzzled.webp",
+      "blush": "shuizang/kukuri/blush.webp",
+      "smirk": "shuizang/kukuri/smirk.webp",
+      "outfit1": "shuizang/kukuri/outfit1.webp",
+      "outfit2": "shuizang/kukuri/outfit2.webp",
+      "outfit3": "shuizang/kukuri/outfit3.webp",
+      "normal": "shuizang/kukuri/normal.webp",
+      "sad": "shuizang/kukuri/sad.webp",
+      "happy": "shuizang/kukuri/happy.webp"
+     }
+    },
+    "煤谷小夜": {
+     "slug": "sayo",
+     "variants": {
+      "smug": "shuizang/sayo/smug.webp",
+      "thinking": "shuizang/sayo/thinking.webp",
+      "surprised": "shuizang/sayo/surprised.webp",
+      "uniform": "shuizang/sayo/uniform.webp",
+      "angry": "shuizang/sayo/angry.webp",
+      "puzzled": "shuizang/sayo/puzzled.webp",
+      "blush": "shuizang/sayo/blush.webp",
+      "outfit1": "shuizang/sayo/outfit1.webp",
+      "outfit2": "shuizang/sayo/outfit2.webp",
+      "normal": "shuizang/sayo/normal.webp",
+      "sad": "shuizang/sayo/sad.webp",
+      "happy": "shuizang/sayo/happy.webp"
+     }
+    },
+    "神峰灯": {
+     "slug": "akari",
+     "variants": {
+      "smug": "shuizang/akari/smug.webp",
+      "thinking": "shuizang/akari/thinking.webp",
+      "surprised": "shuizang/akari/surprised.webp",
+      "angry": "shuizang/akari/angry.webp",
+      "puzzled": "shuizang/akari/puzzled.webp",
+      "blush": "shuizang/akari/blush.webp",
+      "outfit1": "shuizang/akari/outfit1.webp",
+      "normal": "shuizang/akari/normal.webp",
+      "sad": "shuizang/akari/sad.webp",
+      "happy": "shuizang/akari/happy.webp"
+     }
+    },
+    "茅崎夕樱": {
+     "slug": "yuuka",
+     "variants": {
+      "smug": "shuizang/yuuka/smug.webp",
+      "thinking": "shuizang/yuuka/thinking.webp",
+      "surprised": "shuizang/yuuka/surprised.webp",
+      "uniform": "shuizang/yuuka/uniform.webp",
+      "angry": "shuizang/yuuka/angry.webp",
+      "puzzled": "shuizang/yuuka/puzzled.webp",
+      "blush": "shuizang/yuuka/blush.webp",
+      "outfit1": "shuizang/yuuka/outfit1.webp",
+      "outfit2": "shuizang/yuuka/outfit2.webp",
+      "normal": "shuizang/yuuka/normal.webp",
+      "sad": "shuizang/yuuka/sad.webp",
+      "happy": "shuizang/yuuka/happy.webp"
+     }
+    },
+    "茅崎征士": {
+     "slug": "seiji",
+     "variants": {
+      "normal": "shuizang/seiji/normal.webp"
+     }
+    },
+    "进藤和奏": {
+     "slug": "waka",
+     "variants": {
+      "smug": "shuizang/waka/smug.webp",
+      "thinking": "shuizang/waka/thinking.webp",
+      "surprised": "shuizang/waka/surprised.webp",
+      "angry": "shuizang/waka/angry.webp",
+      "puzzled": "shuizang/waka/puzzled.webp",
+      "blush": "shuizang/waka/blush.webp",
+      "outfit1": "shuizang/waka/outfit1.webp",
+      "normal": "shuizang/waka/normal.webp",
+      "sad": "shuizang/waka/sad.webp",
+      "happy": "shuizang/waka/happy.webp"
+     }
+    }
+   }
+  },
+  "灵感满溢的甜蜜创想": {
+   "slug": "linggan",
+   "chars": {
+    "和泉妃爱": {
+     "slug": "hina",
+     "variants": {
+      "smug": "linggan/hina/smug.webp",
+      "surprised": "linggan/hina/surprised.webp",
+      "uniform": "linggan/hina/uniform.webp",
+      "angry": "linggan/hina/angry.webp",
+      "puzzled": "linggan/hina/puzzled.webp",
+      "blush": "linggan/hina/blush.webp",
+      "smirk": "linggan/hina/smirk.webp",
+      "outfit1": "linggan/hina/outfit1.webp",
+      "outfit2": "linggan/hina/outfit2.webp",
+      "normal": "linggan/hina/normal.webp",
+      "sad": "linggan/hina/sad.webp",
+      "happy": "linggan/hina/happy.webp"
+     }
+    },
+    "和泉里": {
+     "slug": "sato",
+     "variants": {
+      "normal": "linggan/sato/normal.webp"
+     }
+    },
+    "圣莉莉子": {
+     "slug": "ririko",
+     "variants": {
+      "smug": "linggan/ririko/smug.webp",
+      "thinking": "linggan/ririko/thinking.webp",
+      "surprised": "linggan/ririko/surprised.webp",
+      "uniform": "linggan/ririko/uniform.webp",
+      "angry": "linggan/ririko/angry.webp",
+      "puzzled": "linggan/ririko/puzzled.webp",
+      "blush": "linggan/ririko/blush.webp",
+      "normal": "linggan/ririko/normal.webp",
+      "sad": "linggan/ririko/sad.webp",
+      "happy": "linggan/ririko/happy.webp"
+     }
+    },
+    "常磐华乃": {
+     "slug": "kano",
+     "variants": {
+      "smug": "linggan/kano/smug.webp",
+      "uniform": "linggan/kano/uniform.webp",
+      "angry": "linggan/kano/angry.webp",
+      "puzzled": "linggan/kano/puzzled.webp",
+      "blush": "linggan/kano/blush.webp",
+      "smirk": "linggan/kano/smirk.webp",
+      "outfit1": "linggan/kano/outfit1.webp",
+      "outfit2": "linggan/kano/outfit2.webp",
+      "normal": "linggan/kano/normal.webp",
+      "sad": "linggan/kano/sad.webp",
+      "happy": "linggan/kano/happy.webp"
+     }
+    },
+    "新川广梦": {
+     "slug": "hiromu",
+     "variants": {
+      "thinking": "linggan/hiromu/thinking.webp",
+      "surprised": "linggan/hiromu/surprised.webp",
+      "uniform": "linggan/hiromu/uniform.webp",
+      "angry": "linggan/hiromu/angry.webp",
+      "puzzled": "linggan/hiromu/puzzled.webp",
+      "blush": "linggan/hiromu/blush.webp",
+      "outfit1": "linggan/hiromu/outfit1.webp",
+      "outfit2": "linggan/hiromu/outfit2.webp",
+      "normal": "linggan/hiromu/normal.webp",
+      "sad": "linggan/hiromu/sad.webp",
+      "happy": "linggan/hiromu/happy.webp"
+     }
+    },
+    "锦明日海": {
+     "slug": "asumi",
+     "variants": {
+      "smug": "linggan/asumi/smug.webp",
+      "thinking": "linggan/asumi/thinking.webp",
+      "surprised": "linggan/asumi/surprised.webp",
+      "uniform": "linggan/asumi/uniform.webp",
+      "angry": "linggan/asumi/angry.webp",
+      "puzzled": "linggan/asumi/puzzled.webp",
+      "blush": "linggan/asumi/blush.webp",
+      "outfit1": "linggan/asumi/outfit1.webp",
+      "outfit2": "linggan/asumi/outfit2.webp",
+      "normal": "linggan/asumi/normal.webp",
+      "sad": "linggan/asumi/sad.webp",
+      "happy": "linggan/asumi/happy.webp"
+     }
+    },
+    "镰仓诗樱": {
+     "slug": "shion",
+     "variants": {
+      "smug": "linggan/shion/smug.webp",
+      "thinking": "linggan/shion/thinking.webp",
+      "uniform": "linggan/shion/uniform.webp",
+      "angry": "linggan/shion/angry.webp",
+      "puzzled": "linggan/shion/puzzled.webp",
+      "blush": "linggan/shion/blush.webp",
+      "smirk": "linggan/shion/smirk.webp",
+      "outfit1": "linggan/shion/outfit1.webp",
+      "outfit2": "linggan/shion/outfit2.webp",
+      "outfit3": "linggan/shion/outfit3.webp",
+      "normal": "linggan/shion/normal.webp",
+      "sad": "linggan/shion/sad.webp",
+      "happy": "linggan/shion/happy.webp"
+     }
+    },
+    "雪景四季": {
+     "slug": "shiki",
+     "variants": {
+      "thinking": "linggan/shiki/thinking.webp",
+      "surprised": "linggan/shiki/surprised.webp",
+      "angry": "linggan/shiki/angry.webp",
+      "puzzled": "linggan/shiki/puzzled.webp",
+      "blush": "linggan/shiki/blush.webp",
+      "outfit1": "linggan/shiki/outfit1.webp",
+      "normal": "linggan/shiki/normal.webp",
+      "sad": "linggan/shiki/sad.webp",
+      "happy": "linggan/shiki/happy.webp"
+     }
+    },
+    "龙闲天梨": {
+     "slug": "tenri",
+     "variants": {
+      "smug": "linggan/tenri/smug.webp",
+      "thinking": "linggan/tenri/thinking.webp",
+      "surprised": "linggan/tenri/surprised.webp",
+      "uniform": "linggan/tenri/uniform.webp",
+      "angry": "linggan/tenri/angry.webp",
+      "puzzled": "linggan/tenri/puzzled.webp",
+      "blush": "linggan/tenri/blush.webp",
+      "outfit1": "linggan/tenri/outfit1.webp",
+      "outfit2": "linggan/tenri/outfit2.webp",
+      "normal": "linggan/tenri/normal.webp",
+      "sad": "linggan/tenri/sad.webp",
+      "happy": "linggan/tenri/happy.webp"
+     }
+    }
+   }
+  },
+  "甜蜜女友2": {
+   "slug": "tiannv2",
+   "chars": {
+    "冰见山玲": {
+     "slug": "rei",
+     "variants": {
+      "smug": "tiannv2/rei/smug.webp",
+      "surprised": "tiannv2/rei/surprised.webp",
+      "uniform": "tiannv2/rei/uniform.webp",
+      "angry": "tiannv2/rei/angry.webp",
+      "puzzled": "tiannv2/rei/puzzled.webp",
+      "blush": "tiannv2/rei/blush.webp",
+      "outfit1": "tiannv2/rei/outfit1.webp",
+      "outfit2": "tiannv2/rei/outfit2.webp",
+      "outfit3": "tiannv2/rei/outfit3.webp",
+      "normal": "tiannv2/rei/normal.webp",
+      "sad": "tiannv2/rei/sad.webp",
+      "happy": "tiannv2/rei/happy.webp"
+     }
+    },
+    "茑町千岁": {
+     "slug": "chitose",
+     "variants": {
+      "smug": "tiannv2/chitose/smug.webp",
+      "thinking": "tiannv2/chitose/thinking.webp",
+      "surprised": "tiannv2/chitose/surprised.webp",
+      "uniform": "tiannv2/chitose/uniform.webp",
+      "angry": "tiannv2/chitose/angry.webp",
+      "puzzled": "tiannv2/chitose/puzzled.webp",
+      "blush": "tiannv2/chitose/blush.webp",
+      "outfit1": "tiannv2/chitose/outfit1.webp",
+      "outfit2": "tiannv2/chitose/outfit2.webp",
+      "outfit3": "tiannv2/chitose/outfit3.webp",
+      "outfit4": "tiannv2/chitose/outfit4.webp",
+      "normal": "tiannv2/chitose/normal.webp",
+      "sad": "tiannv2/chitose/sad.webp",
+      "happy": "tiannv2/chitose/happy.webp"
+     }
+    },
+    "黑姬结灯": {
+     "slug": "yuhi",
+     "variants": {
+      "smug": "tiannv2/yuhi/smug.webp",
+      "thinking": "tiannv2/yuhi/thinking.webp",
+      "surprised": "tiannv2/yuhi/surprised.webp",
+      "uniform": "tiannv2/yuhi/uniform.webp",
+      "angry": "tiannv2/yuhi/angry.webp",
+      "puzzled": "tiannv2/yuhi/puzzled.webp",
+      "blush": "tiannv2/yuhi/blush.webp",
+      "outfit1": "tiannv2/yuhi/outfit1.webp",
+      "outfit2": "tiannv2/yuhi/outfit2.webp",
+      "outfit3": "tiannv2/yuhi/outfit3.webp",
+      "outfit4": "tiannv2/yuhi/outfit4.webp",
+      "normal": "tiannv2/yuhi/normal.webp",
+      "sad": "tiannv2/yuhi/sad.webp",
+      "happy": "tiannv2/yuhi/happy.webp"
+     }
+    }
+   }
+  },
+  "甜蜜女友2.5": {
+   "slug": "tiannv25",
+   "chars": {
+    "一之濑穗波": {
+     "slug": "honami",
+     "variants": {
+      "thinking": "tiannv25/honami/thinking.webp",
+      "surprised": "tiannv25/honami/surprised.webp",
+      "uniform": "tiannv25/honami/uniform.webp",
+      "angry": "tiannv25/honami/angry.webp",
+      "puzzled": "tiannv25/honami/puzzled.webp",
+      "blush": "tiannv25/honami/blush.webp",
+      "outfit1": "tiannv25/honami/outfit1.webp",
+      "outfit2": "tiannv25/honami/outfit2.webp",
+      "outfit3": "tiannv25/honami/outfit3.webp",
+      "normal": "tiannv25/honami/normal.webp",
+      "sad": "tiannv25/honami/sad.webp",
+      "happy": "tiannv25/honami/happy.webp"
+     }
+    },
+    "沓野奏": {
+     "slug": "kanade",
+     "variants": {
+      "smug": "tiannv25/kanade/smug.webp",
+      "thinking": "tiannv25/kanade/thinking.webp",
+      "surprised": "tiannv25/kanade/surprised.webp",
+      "uniform": "tiannv25/kanade/uniform.webp",
+      "angry": "tiannv25/kanade/angry.webp",
+      "puzzled": "tiannv25/kanade/puzzled.webp",
+      "blush": "tiannv25/kanade/blush.webp",
+      "outfit1": "tiannv25/kanade/outfit1.webp",
+      "outfit2": "tiannv25/kanade/outfit2.webp",
+      "outfit3": "tiannv25/kanade/outfit3.webp",
+      "outfit4": "tiannv25/kanade/outfit4.webp",
+      "normal": "tiannv25/kanade/normal.webp",
+      "sad": "tiannv25/kanade/sad.webp",
+      "happy": "tiannv25/kanade/happy.webp"
+     }
+    },
+    "砚川·优芙拉希·泪香": {
+     "slug": "ruika",
+     "variants": {
+      "surprised": "tiannv25/ruika/surprised.webp",
+      "angry": "tiannv25/ruika/angry.webp",
+      "puzzled": "tiannv25/ruika/puzzled.webp",
+      "blush": "tiannv25/ruika/blush.webp",
+      "outfit1": "tiannv25/ruika/outfit1.webp",
+      "outfit2": "tiannv25/ruika/outfit2.webp",
+      "outfit3": "tiannv25/ruika/outfit3.webp",
+      "outfit4": "tiannv25/ruika/outfit4.webp",
+      "normal": "tiannv25/ruika/normal.webp",
+      "sad": "tiannv25/ruika/sad.webp",
+      "happy": "tiannv25/ruika/happy.webp"
+     }
+    },
+    "高社雪静": {
+     "slug": "yukishizu",
+     "variants": {
+      "smug": "tiannv25/yukishizu/smug.webp",
+      "thinking": "tiannv25/yukishizu/thinking.webp",
+      "surprised": "tiannv25/yukishizu/surprised.webp",
+      "uniform": "tiannv25/yukishizu/uniform.webp",
+      "angry": "tiannv25/yukishizu/angry.webp",
+      "puzzled": "tiannv25/yukishizu/puzzled.webp",
+      "blush": "tiannv25/yukishizu/blush.webp",
+      "outfit1": "tiannv25/yukishizu/outfit1.webp",
+      "outfit2": "tiannv25/yukishizu/outfit2.webp",
+      "outfit3": "tiannv25/yukishizu/outfit3.webp",
+      "normal": "tiannv25/yukishizu/normal.webp",
+      "sad": "tiannv25/yukishizu/sad.webp",
+      "happy": "tiannv25/yukishizu/happy.webp"
+     }
+    }
+   }
+  },
+  "甜蜜女友3": {
+   "slug": "tiannv3",
+   "chars": {
+    "御所院冬桦": {
+     "slug": "touka",
+     "variants": {
+      "smug": "tiannv3/touka/smug.webp",
+      "thinking": "tiannv3/touka/thinking.webp",
+      "surprised": "tiannv3/touka/surprised.webp",
+      "uniform": "tiannv3/touka/uniform.webp",
+      "angry": "tiannv3/touka/angry.webp",
+      "puzzled": "tiannv3/touka/puzzled.webp",
+      "blush": "tiannv3/touka/blush.webp",
+      "smirk": "tiannv3/touka/smirk.webp",
+      "outfit1": "tiannv3/touka/outfit1.webp",
+      "outfit2": "tiannv3/touka/outfit2.webp",
+      "outfit3": "tiannv3/touka/outfit3.webp",
+      "normal": "tiannv3/touka/normal.webp",
+      "sad": "tiannv3/touka/sad.webp",
+      "happy": "tiannv3/touka/happy.webp"
+     }
+    },
+    "斯卡蕾特·斑鸠·维斯塔莉娅": {
+     "slug": "scarlet",
+     "variants": {
+      "smug": "tiannv3/scarlet/smug.webp",
+      "thinking": "tiannv3/scarlet/thinking.webp",
+      "surprised": "tiannv3/scarlet/surprised.webp",
+      "uniform": "tiannv3/scarlet/uniform.webp",
+      "angry": "tiannv3/scarlet/angry.webp",
+      "puzzled": "tiannv3/scarlet/puzzled.webp",
+      "blush": "tiannv3/scarlet/blush.webp",
+      "outfit1": "tiannv3/scarlet/outfit1.webp",
+      "outfit2": "tiannv3/scarlet/outfit2.webp",
+      "outfit3": "tiannv3/scarlet/outfit3.webp",
+      "normal": "tiannv3/scarlet/normal.webp",
+      "sad": "tiannv3/scarlet/sad.webp",
+      "happy": "tiannv3/scarlet/happy.webp"
+     }
+    },
+    "柳木叶梦": {
+     "slug": "hazuki",
+     "variants": {
+      "smug": "tiannv3/hazuki/smug.webp",
+      "thinking": "tiannv3/hazuki/thinking.webp",
+      "surprised": "tiannv3/hazuki/surprised.webp",
+      "uniform": "tiannv3/hazuki/uniform.webp",
+      "angry": "tiannv3/hazuki/angry.webp",
+      "puzzled": "tiannv3/hazuki/puzzled.webp",
+      "blush": "tiannv3/hazuki/blush.webp",
+      "smirk": "tiannv3/hazuki/smirk.webp",
+      "outfit1": "tiannv3/hazuki/outfit1.webp",
+      "outfit2": "tiannv3/hazuki/outfit2.webp",
+      "outfit3": "tiannv3/hazuki/outfit3.webp",
+      "normal": "tiannv3/hazuki/normal.webp",
+      "sad": "tiannv3/hazuki/sad.webp",
+      "happy": "tiannv3/hazuki/happy.webp"
+     }
+    },
+    "柳木诗梦": {
+     "slug": "shimu",
+     "variants": {
+      "smug": "tiannv3/shimu/smug.webp",
+      "thinking": "tiannv3/shimu/thinking.webp",
+      "surprised": "tiannv3/shimu/surprised.webp",
+      "uniform": "tiannv3/shimu/uniform.webp",
+      "angry": "tiannv3/shimu/angry.webp",
+      "puzzled": "tiannv3/shimu/puzzled.webp",
+      "blush": "tiannv3/shimu/blush.webp",
+      "smirk": "tiannv3/shimu/smirk.webp",
+      "outfit1": "tiannv3/shimu/outfit1.webp",
+      "outfit2": "tiannv3/shimu/outfit2.webp",
+      "outfit3": "tiannv3/shimu/outfit3.webp",
+      "normal": "tiannv3/shimu/normal.webp",
+      "sad": "tiannv3/shimu/sad.webp",
+      "happy": "tiannv3/shimu/happy.webp"
+     }
+    },
+    "鸿纱由美": {
+     "slug": "sayumi",
+     "variants": {
+      "smug": "tiannv3/sayumi/smug.webp",
+      "thinking": "tiannv3/sayumi/thinking.webp",
+      "surprised": "tiannv3/sayumi/surprised.webp",
+      "uniform": "tiannv3/sayumi/uniform.webp",
+      "angry": "tiannv3/sayumi/angry.webp",
+      "puzzled": "tiannv3/sayumi/puzzled.webp",
+      "blush": "tiannv3/sayumi/blush.webp",
+      "smirk": "tiannv3/sayumi/smirk.webp",
+      "outfit1": "tiannv3/sayumi/outfit1.webp",
+      "outfit2": "tiannv3/sayumi/outfit2.webp",
+      "outfit3": "tiannv3/sayumi/outfit3.webp",
+      "outfit4": "tiannv3/sayumi/outfit4.webp",
+      "outfit5": "tiannv3/sayumi/outfit5.webp",
+      "normal": "tiannv3/sayumi/normal.webp",
+      "sad": "tiannv3/sayumi/sad.webp",
+      "happy": "tiannv3/sayumi/happy.webp"
+     }
+    }
+   }
+  },
+  "纯白交响曲": {
+   "slug": "chunbai",
+   "chars": {
+    "乾纱凪": {
+     "slug": "sana",
+     "variants": {
+      "smug": "chunbai/sana/smug.webp",
+      "surprised": "chunbai/sana/surprised.webp",
+      "uniform": "chunbai/sana/uniform.webp",
+      "angry": "chunbai/sana/angry.webp",
+      "puzzled": "chunbai/sana/puzzled.webp",
+      "blush": "chunbai/sana/blush.webp",
+      "outfit1": "chunbai/sana/outfit1.webp",
+      "outfit2": "chunbai/sana/outfit2.webp",
+      "outfit3": "chunbai/sana/outfit3.webp",
+      "normal": "chunbai/sana/normal.webp",
+      "sad": "chunbai/sana/sad.webp",
+      "happy": "chunbai/sana/happy.webp"
+     }
+    },
+    "八冢万智": {
+     "slug": "machi",
+     "variants": {
+      "normal": "chunbai/machi/normal.webp"
+     }
+    },
+    "天羽结子": {
+     "slug": "yuiko",
+     "variants": {
+      "normal": "chunbai/yuiko/normal.webp"
+     }
+    },
+    "天羽美羽": {
+     "slug": "miu",
+     "variants": {
+      "smug": "chunbai/miu/smug.webp",
+      "surprised": "chunbai/miu/surprised.webp",
+      "uniform": "chunbai/miu/uniform.webp",
+      "angry": "chunbai/miu/angry.webp",
+      "puzzled": "chunbai/miu/puzzled.webp",
+      "blush": "chunbai/miu/blush.webp",
+      "outfit1": "chunbai/miu/outfit1.webp",
+      "outfit2": "chunbai/miu/outfit2.webp",
+      "outfit3": "chunbai/miu/outfit3.webp",
+      "normal": "chunbai/miu/normal.webp",
+      "sad": "chunbai/miu/sad.webp",
+      "happy": "chunbai/miu/happy.webp"
+     }
+    },
+    "安洁莉娜·菜夏·史威尔": {
+     "slug": "angelina",
+     "variants": {
+      "thinking": "chunbai/angelina/thinking.webp",
+      "surprised": "chunbai/angelina/surprised.webp",
+      "angry": "chunbai/angelina/angry.webp",
+      "puzzled": "chunbai/angelina/puzzled.webp",
+      "blush": "chunbai/angelina/blush.webp",
+      "outfit1": "chunbai/angelina/outfit1.webp",
+      "outfit2": "chunbai/angelina/outfit2.webp",
+      "outfit3": "chunbai/angelina/outfit3.webp",
+      "normal": "chunbai/angelina/normal.webp",
+      "sad": "chunbai/angelina/sad.webp",
+      "happy": "chunbai/angelina/happy.webp"
+     }
+    },
+    "椋梨隼太": {
+     "slug": "hayata",
+     "variants": {
+      "normal": "chunbai/hayata/normal.webp"
+     }
+    },
+    "濑名兰华": {
+     "slug": "ranka",
+     "variants": {
+      "normal": "chunbai/ranka/normal.webp"
+     }
+    },
+    "濑名爱理": {
+     "slug": "airi",
+     "variants": {
+      "surprised": "chunbai/airi/surprised.webp",
+      "uniform": "chunbai/airi/uniform.webp",
+      "angry": "chunbai/airi/angry.webp",
+      "puzzled": "chunbai/airi/puzzled.webp",
+      "blush": "chunbai/airi/blush.webp",
+      "smirk": "chunbai/airi/smirk.webp",
+      "outfit1": "chunbai/airi/outfit1.webp",
+      "outfit2": "chunbai/airi/outfit2.webp",
+      "outfit3": "chunbai/airi/outfit3.webp",
+      "normal": "chunbai/airi/normal.webp",
+      "sad": "chunbai/airi/sad.webp",
+      "happy": "chunbai/airi/happy.webp"
+     }
+    },
+    "瓜生樱乃": {
+     "slug": "sakuno",
+     "variants": {
+      "surprised": "chunbai/sakuno/surprised.webp",
+      "uniform": "chunbai/sakuno/uniform.webp",
+      "angry": "chunbai/sakuno/angry.webp",
+      "puzzled": "chunbai/sakuno/puzzled.webp",
+      "blush": "chunbai/sakuno/blush.webp",
+      "outfit1": "chunbai/sakuno/outfit1.webp",
+      "outfit2": "chunbai/sakuno/outfit2.webp",
+      "outfit3": "chunbai/sakuno/outfit3.webp",
+      "outfit4": "chunbai/sakuno/outfit4.webp",
+      "outfit5": "chunbai/sakuno/outfit5.webp",
+      "outfit6": "chunbai/sakuno/outfit6.webp",
+      "outfit7": "chunbai/sakuno/outfit7.webp",
+      "outfit8": "chunbai/sakuno/outfit8.webp",
+      "outfit9": "chunbai/sakuno/outfit9.webp",
+      "normal": "chunbai/sakuno/normal.webp",
+      "sad": "chunbai/sakuno/sad.webp",
+      "happy": "chunbai/sakuno/happy.webp"
+     }
+    }
+   }
+  },
+  "纸上魔法使": {
+   "slug": "zhishang",
+   "chars": {
+    "伏见理央": {
+     "slug": "rio",
+     "variants": {
+      "surprised": "zhishang/rio/surprised.webp",
+      "uniform": "zhishang/rio/uniform.webp",
+      "angry": "zhishang/rio/angry.webp",
+      "puzzled": "zhishang/rio/puzzled.webp",
+      "blush": "zhishang/rio/blush.webp",
+      "outfit1": "zhishang/rio/outfit1.webp",
+      "normal": "zhishang/rio/normal.webp",
+      "sad": "zhishang/rio/sad.webp",
+      "happy": "zhishang/rio/happy.webp"
+     }
+    },
+    "克丽索贝莉露": {
+     "slug": "chryso",
+     "variants": {
+      "smug": "zhishang/chryso/smug.webp",
+      "surprised": "zhishang/chryso/surprised.webp",
+      "angry": "zhishang/chryso/angry.webp",
+      "puzzled": "zhishang/chryso/puzzled.webp",
+      "blush": "zhishang/chryso/blush.webp",
+      "smirk": "zhishang/chryso/smirk.webp",
+      "outfit1": "zhishang/chryso/outfit1.webp",
+      "normal": "zhishang/chryso/normal.webp",
+      "sad": "zhishang/chryso/sad.webp",
+      "happy": "zhishang/chryso/happy.webp"
+     }
+    },
+    "日向彼方": {
+     "slug": "kanata",
+     "variants": {
+      "smug": "zhishang/kanata/smug.webp",
+      "thinking": "zhishang/kanata/thinking.webp",
+      "surprised": "zhishang/kanata/surprised.webp",
+      "uniform": "zhishang/kanata/uniform.webp",
+      "angry": "zhishang/kanata/angry.webp",
+      "puzzled": "zhishang/kanata/puzzled.webp",
+      "blush": "zhishang/kanata/blush.webp",
+      "smirk": "zhishang/kanata/smirk.webp",
+      "outfit1": "zhishang/kanata/outfit1.webp",
+      "normal": "zhishang/kanata/normal.webp",
+      "sad": "zhishang/kanata/sad.webp",
+      "happy": "zhishang/kanata/happy.webp"
+     }
+    },
+    "月社妃": {
+     "slug": "kisaki",
+     "variants": {
+      "smug": "zhishang/kisaki/smug.webp",
+      "thinking": "zhishang/kisaki/thinking.webp",
+      "surprised": "zhishang/kisaki/surprised.webp",
+      "uniform": "zhishang/kisaki/uniform.webp",
+      "angry": "zhishang/kisaki/angry.webp",
+      "puzzled": "zhishang/kisaki/puzzled.webp",
+      "blush": "zhishang/kisaki/blush.webp",
+      "outfit1": "zhishang/kisaki/outfit1.webp",
+      "normal": "zhishang/kisaki/normal.webp",
+      "sad": "zhishang/kisaki/sad.webp",
+      "happy": "zhishang/kisaki/happy.webp"
+     }
+    },
+    "本城奏": {
+     "slug": "kanade",
+     "variants": {
+      "outfit1": "zhishang/kanade/outfit1.webp",
+      "normal": "zhishang/kanade/normal.webp"
+     }
+    },
+    "本城岬": {
+     "slug": "misaki",
+     "variants": {
+      "thinking": "zhishang/misaki/thinking.webp",
+      "surprised": "zhishang/misaki/surprised.webp",
+      "uniform": "zhishang/misaki/uniform.webp",
+      "angry": "zhishang/misaki/angry.webp",
+      "puzzled": "zhishang/misaki/puzzled.webp",
+      "blush": "zhishang/misaki/blush.webp",
+      "normal": "zhishang/misaki/normal.webp",
+      "sad": "zhishang/misaki/sad.webp",
+      "happy": "zhishang/misaki/happy.webp"
+     }
+    },
+    "游行寺夜子": {
+     "slug": "yoruko",
+     "variants": {
+      "smug": "zhishang/yoruko/smug.webp",
+      "thinking": "zhishang/yoruko/thinking.webp",
+      "surprised": "zhishang/yoruko/surprised.webp",
+      "uniform": "zhishang/yoruko/uniform.webp",
+      "angry": "zhishang/yoruko/angry.webp",
+      "puzzled": "zhishang/yoruko/puzzled.webp",
+      "blush": "zhishang/yoruko/blush.webp",
+      "outfit1": "zhishang/yoruko/outfit1.webp",
+      "normal": "zhishang/yoruko/normal.webp",
+      "sad": "zhishang/yoruko/sad.webp",
+      "happy": "zhishang/yoruko/happy.webp"
+     }
+    },
+    "游行寺暗子": {
+     "slug": "yamiko",
+     "variants": {
+      "outfit1": "zhishang/yamiko/outfit1.webp",
+      "normal": "zhishang/yamiko/normal.webp"
+     }
+    },
+    "游行寺汀": {
+     "slug": "migiwa",
+     "variants": {
+      "normal": "zhishang/migiwa/normal.webp"
+     }
+    }
+   }
+  },
+  "缘起甜韵趣恋丛生！": {
+   "slug": "yuanqi",
+   "chars": {
+    "八乙女凉花": {
+     "slug": "ryouka",
+     "variants": {
+      "thinking": "yuanqi/ryouka/thinking.webp",
+      "surprised": "yuanqi/ryouka/surprised.webp",
+      "uniform": "yuanqi/ryouka/uniform.webp",
+      "angry": "yuanqi/ryouka/angry.webp",
+      "puzzled": "yuanqi/ryouka/puzzled.webp",
+      "blush": "yuanqi/ryouka/blush.webp",
+      "outfit1": "yuanqi/ryouka/outfit1.webp",
+      "outfit2": "yuanqi/ryouka/outfit2.webp",
+      "outfit3": "yuanqi/ryouka/outfit3.webp",
+      "normal": "yuanqi/ryouka/normal.webp",
+      "sad": "yuanqi/ryouka/sad.webp",
+      "happy": "yuanqi/ryouka/happy.webp"
+     }
+    },
+    "冈井蒲公英": {
+     "slug": "tanpopo",
+     "variants": {
+      "smug": "yuanqi/tanpopo/smug.webp",
+      "surprised": "yuanqi/tanpopo/surprised.webp",
+      "uniform": "yuanqi/tanpopo/uniform.webp",
+      "angry": "yuanqi/tanpopo/angry.webp",
+      "puzzled": "yuanqi/tanpopo/puzzled.webp",
+      "blush": "yuanqi/tanpopo/blush.webp",
+      "outfit1": "yuanqi/tanpopo/outfit1.webp",
+      "outfit2": "yuanqi/tanpopo/outfit2.webp",
+      "outfit3": "yuanqi/tanpopo/outfit3.webp",
+      "outfit4": "yuanqi/tanpopo/outfit4.webp",
+      "normal": "yuanqi/tanpopo/normal.webp",
+      "sad": "yuanqi/tanpopo/sad.webp",
+      "happy": "yuanqi/tanpopo/happy.webp"
+     }
+    },
+    "寿珠祈": {
+     "slug": "tamaki",
+     "variants": {
+      "thinking": "yuanqi/tamaki/thinking.webp",
+      "surprised": "yuanqi/tamaki/surprised.webp",
+      "uniform": "yuanqi/tamaki/uniform.webp",
+      "angry": "yuanqi/tamaki/angry.webp",
+      "puzzled": "yuanqi/tamaki/puzzled.webp",
+      "blush": "yuanqi/tamaki/blush.webp",
+      "outfit1": "yuanqi/tamaki/outfit1.webp",
+      "outfit2": "yuanqi/tamaki/outfit2.webp",
+      "outfit3": "yuanqi/tamaki/outfit3.webp",
+      "normal": "yuanqi/tamaki/normal.webp",
+      "sad": "yuanqi/tamaki/sad.webp",
+      "happy": "yuanqi/tamaki/happy.webp"
+     }
+    },
+    "漆原绫子": {
+     "slug": "ayako",
+     "variants": {
+      "thinking": "yuanqi/ayako/thinking.webp",
+      "surprised": "yuanqi/ayako/surprised.webp",
+      "angry": "yuanqi/ayako/angry.webp",
+      "puzzled": "yuanqi/ayako/puzzled.webp",
+      "blush": "yuanqi/ayako/blush.webp",
+      "outfit1": "yuanqi/ayako/outfit1.webp",
+      "outfit2": "yuanqi/ayako/outfit2.webp",
+      "outfit3": "yuanqi/ayako/outfit3.webp",
+      "outfit4": "yuanqi/ayako/outfit4.webp",
+      "normal": "yuanqi/ayako/normal.webp",
+      "sad": "yuanqi/ayako/sad.webp",
+      "happy": "yuanqi/ayako/happy.webp"
+     }
+    },
+    "衣川美卯": {
+     "slug": "miu",
+     "variants": {
+      "thinking": "yuanqi/miu/thinking.webp",
+      "surprised": "yuanqi/miu/surprised.webp",
+      "uniform": "yuanqi/miu/uniform.webp",
+      "angry": "yuanqi/miu/angry.webp",
+      "puzzled": "yuanqi/miu/puzzled.webp",
+      "blush": "yuanqi/miu/blush.webp",
+      "outfit1": "yuanqi/miu/outfit1.webp",
+      "outfit2": "yuanqi/miu/outfit2.webp",
+      "outfit3": "yuanqi/miu/outfit3.webp",
+      "normal": "yuanqi/miu/normal.webp",
+      "sad": "yuanqi/miu/sad.webp",
+      "happy": "yuanqi/miu/happy.webp"
+     }
+    },
+    "近江希未": {
+     "slug": "nozomi",
+     "variants": {
+      "thinking": "yuanqi/nozomi/thinking.webp",
+      "surprised": "yuanqi/nozomi/surprised.webp",
+      "uniform": "yuanqi/nozomi/uniform.webp",
+      "angry": "yuanqi/nozomi/angry.webp",
+      "puzzled": "yuanqi/nozomi/puzzled.webp",
+      "blush": "yuanqi/nozomi/blush.webp",
+      "outfit1": "yuanqi/nozomi/outfit1.webp",
+      "outfit2": "yuanqi/nozomi/outfit2.webp",
+      "normal": "yuanqi/nozomi/normal.webp",
+      "sad": "yuanqi/nozomi/sad.webp",
+      "happy": "yuanqi/nozomi/happy.webp"
+     }
+    }
+   }
+  }
+ }
+}

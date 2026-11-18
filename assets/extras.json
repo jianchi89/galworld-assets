@@ -1,0 +1,776 @@
+{
+ "schema": 1,
+ "note": "CAST_CSS 未引用、但图库里保留的衣服图（衣装②③④ 等）",
+ "items": [
+  {
+   "rel": "feixiangxin/bailumobaihe/outfit1.webp",
+   "work": "飞翔心",
+   "char": "白鹭茉百合",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--a4e44e1e64b2b092.png"
+  },
+  {
+   "rel": "feixiangxin/bailumobaihe/outfit2.webp",
+   "work": "飞翔心",
+   "char": "白鹭茉百合",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--dc69dfa38e9ff004.png"
+  },
+  {
+   "rel": "feixiangxin/daoyujieyi/outfit1.webp",
+   "work": "飞翔心",
+   "char": "稻羽结衣",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--32557ff671cb4165.png"
+  },
+  {
+   "rel": "feixiangxin/huangtianyin/outfit1.webp",
+   "work": "飞翔心",
+   "char": "皇天音",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--2417ec9d6603f6c1.png"
+  },
+  {
+   "rel": "feixiangxin/huangtianyin/outfit2.webp",
+   "work": "飞翔心",
+   "char": "皇天音",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--6bfbf831844d53af.png"
+  },
+  {
+   "rel": "feixiangxin/shuiwulaiyingzi/outfit1.webp",
+   "work": "飞翔心",
+   "char": "水无濑樱子",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--ba4ab67b3d443f59.png"
+  },
+  {
+   "rel": "feixiangxin/shuiwulaiyingzi/outfit2.webp",
+   "work": "飞翔心",
+   "char": "水无濑樱子",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--9ceb538c5ed33140.png"
+  },
+  {
+   "rel": "feixiangxin/xuedailingnai/outfit1.webp",
+   "work": "飞翔心",
+   "char": "雪代铃乃",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--cb7ed8e45b70bea4.png"
+  },
+  {
+   "rel": "fenfang/bingtangqinxiang/outfit2.webp",
+   "work": "芬芳",
+   "char": "冰堂芹香",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--8d794003ae193305.png"
+  },
+  {
+   "rel": "fenfang/bingtangqinxiang/outfit3.webp",
+   "work": "芬芳",
+   "char": "冰堂芹香",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--bb72a716b0489246.png"
+  },
+  {
+   "rel": "fenfang/chaocangqianhong/outfit1.webp",
+   "work": "芬芳",
+   "char": "朝仓千弘",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--d5868738d6f58725.png"
+  },
+  {
+   "rel": "fenfang/chaocangqianhong/outfit2.webp",
+   "work": "芬芳",
+   "char": "朝仓千弘",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--1077db470dac78f5.png"
+  },
+  {
+   "rel": "fenfang/chaocangqianhong/outfit3.webp",
+   "work": "芬芳",
+   "char": "朝仓千弘",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--720a3c39e9533a26.png"
+  },
+  {
+   "rel": "fenfang/mulaigaoyue/outfit1.webp",
+   "work": "芬芳",
+   "char": "牧濑皋月",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--72be9f88174ba20e.png"
+  },
+  {
+   "rel": "fenfang/mulaigaoyue/outfit2.webp",
+   "work": "芬芳",
+   "char": "牧濑皋月",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--83561811e607714a.png"
+  },
+  {
+   "rel": "fenfang/qianyuannaiya/outfit1.webp",
+   "work": "芬芳",
+   "char": "千原乃亚",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--03c18ea2594acc9a.png"
+  },
+  {
+   "rel": "fenfang/qianyuannaiya/outfit2.webp",
+   "work": "芬芳",
+   "char": "千原乃亚",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--3ff4647794775cd7.png"
+  },
+  {
+   "rel": "fenfang/tianchengxiaoye/outfit1.webp",
+   "work": "芬芳",
+   "char": "天城咲夜",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--5f9de9b749870ef1.png"
+  },
+  {
+   "rel": "fenfang/tianchengxiaoye/outfit2.webp",
+   "work": "芬芳",
+   "char": "天城咲夜",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--8ebd2c933d20d160.png"
+  },
+  {
+   "rel": "fenfang/xiamuzhuli/outfit1.webp",
+   "work": "芬芳",
+   "char": "夏目朱里",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--00aedc7f10f85916.png"
+  },
+  {
+   "rel": "fenfang/xiamuzhuli/outfit2.webp",
+   "work": "芬芳",
+   "char": "夏目朱里",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--db1c5d73522cac04.png"
+  },
+  {
+   "rel": "huabu/annataxiya/outfit1.webp",
+   "work": "画布",
+   "char": "安娜塔西亚",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--280754714d520fe8.png"
+  },
+  {
+   "rel": "huabu/annataxiya/outfit2.webp",
+   "work": "画布",
+   "char": "安娜塔西亚",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--e14e0ec55a8c6d38.png"
+  },
+  {
+   "rel": "huabu/annataxiya/outfit3.webp",
+   "work": "画布",
+   "char": "安娜塔西亚",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--4dccf200e0ebcd1a.png"
+  },
+  {
+   "rel": "huabu/fengliannai/outfit1.webp",
+   "work": "画布",
+   "char": "凤怜奈",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--843259036da2fe3a.png"
+  },
+  {
+   "rel": "huabu/fengliannai/outfit2.webp",
+   "work": "画布",
+   "char": "凤怜奈",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--b749503c7b0f7fe9.png"
+  },
+  {
+   "rel": "huabu/fengliannai/outfit3.webp",
+   "work": "画布",
+   "char": "凤怜奈",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--2b3a9a5071aad3b1.png"
+  },
+  {
+   "rel": "huabu/qianxing/outfit1.webp",
+   "work": "画布",
+   "char": "乾幸",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--1b2738b586db464b.png"
+  },
+  {
+   "rel": "huabu/qianxing/outfit2.webp",
+   "work": "画布",
+   "char": "乾幸",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--5e2a9e9bb9e7092a.png"
+  },
+  {
+   "rel": "huabu/shenshanruixi/outfit1.webp",
+   "work": "画布",
+   "char": "深山瑞希",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--9909e187c83d552a.png"
+  },
+  {
+   "rel": "huabu/shenshanruixi/outfit2.webp",
+   "work": "画布",
+   "char": "深山瑞希",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--84564c7de6d4ed08.png"
+  },
+  {
+   "rel": "huabu/shizitangqianqing/outfit1.webp",
+   "work": "画布",
+   "char": "狮子堂千晴",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--4ee3db23104113a6.png"
+  },
+  {
+   "rel": "huabu/shizitangqianqing/outfit2.webp",
+   "work": "画布",
+   "char": "狮子堂千晴",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--d17d4a4c254897e8.png"
+  },
+  {
+   "rel": "huabu/wuwanziyue/outfit1.webp",
+   "work": "画布",
+   "char": "乌丸紫月",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--fda142a9aaea5738.png"
+  },
+  {
+   "rel": "huabu/wuwanziyue/outfit2.webp",
+   "work": "画布",
+   "char": "乌丸紫月",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--f87b8a4973dd67fc.png"
+  },
+  {
+   "rel": "huabu/wuwanziyue/outfit3.webp",
+   "work": "画布",
+   "char": "乌丸紫月",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--39d0bfee2dfec8ec.png"
+  },
+  {
+   "rel": "jinyue/buliuaite-nikelaite-pula-93f2/outfit1.webp",
+   "work": "近月",
+   "char": "布琉艾特·妮科莱特·普朗凯特",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--2b17ff3140882cd4.png"
+  },
+  {
+   "rel": "jinyue/buliuaite-nikelaite-pula-93f2/outfit2.webp",
+   "work": "近月",
+   "char": "布琉艾特·妮科莱特·普朗凯特",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--0fd9b09334eec40a.png"
+  },
+  {
+   "rel": "jinyue/buliuaite-nikelaite-pula-93f2/outfit3.webp",
+   "work": "近月",
+   "char": "布琉艾特·妮科莱特·普朗凯特",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--00f552ec99aab295.png"
+  },
+  {
+   "rel": "jinyue/buliuaite-nikelaite-pula-93f2/outfit4.webp",
+   "work": "近月",
+   "char": "布琉艾特·妮科莱特·普朗凯特",
+   "variant": "衣装④",
+   "url": "https://origin.picgo.net/2026/11/10/--f769b3b58c1f609a.png"
+  },
+  {
+   "rel": "jinyue/dazanglixiangnai/outfit1.webp",
+   "work": "近月",
+   "char": "大藏里想奈",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--f4ec827c88e9bcfa.png"
+  },
+  {
+   "rel": "jinyue/dazanglixiangnai/outfit2.webp",
+   "work": "近月",
+   "char": "大藏里想奈",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--cea9f3d784117315.png"
+  },
+  {
+   "rel": "jinyue/dazanglixiangnai/outfit3.webp",
+   "work": "近月",
+   "char": "大藏里想奈",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--8a4541de90bd2e34.png"
+  },
+  {
+   "rel": "jinyue/huazhigongruisui/outfit2.webp",
+   "work": "近月",
+   "char": "花之宫瑞穗",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--1005ede6db451433.png"
+  },
+  {
+   "rel": "jinyue/huazhigongruisui/outfit3.webp",
+   "work": "近月",
+   "char": "花之宫瑞穗",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--029225fda4c6f059.png"
+  },
+  {
+   "rel": "jinyue/liuzhilaicou/outfit1.webp",
+   "work": "近月",
+   "char": "柳之濑凑",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--e0a853a99dc6dfb8.png"
+  },
+  {
+   "rel": "jinyue/liuzhilaicou/outfit2.webp",
+   "work": "近月",
+   "char": "柳之濑凑",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--b3740de9cef1e7c0.png"
+  },
+  {
+   "rel": "jinyue/liuzhilaicou/outfit3.webp",
+   "work": "近月",
+   "char": "柳之濑凑",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--65638ad89f05a805.png"
+  },
+  {
+   "rel": "jinyue/meilier-linqi/outfit1.webp",
+   "work": "近月",
+   "char": "梅丽尔·琳琪",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--76da765013c8d4e2.png"
+  },
+  {
+   "rel": "jinyue/meilier-linqi/outfit2.webp",
+   "work": "近月",
+   "char": "梅丽尔·琳琪",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--34cae61ca01ce5c2.png"
+  },
+  {
+   "rel": "jinyue/meilier-linqi/outfit3.webp",
+   "work": "近月",
+   "char": "梅丽尔·琳琪",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--4596a3c497c638ff.png"
+  },
+  {
+   "rel": "jinyue/xiaocangzhaori/yosuga-suit.webp",
+   "work": "近月",
+   "char": "小仓朝日",
+   "variant": "大藏游星装",
+   "url": "https://origin.picgo.net/2026/11/10/--6f487aa673c819cb.png"
+  },
+  {
+   "rel": "jinyue/xiaocangzhaori/outfit1.webp",
+   "work": "近月",
+   "char": "小仓朝日",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--242ccc06619af5e0.png"
+  },
+  {
+   "rel": "jinyue/xiaocangzhaori/outfit2.webp",
+   "work": "近月",
+   "char": "小仓朝日",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--88ca03e0d2c68eae.png"
+  },
+  {
+   "rel": "jinyue/yingxiaoluluna/outfit1.webp",
+   "work": "近月",
+   "char": "樱小路露娜",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--5e8eaf4e2dfa2c06.png"
+  },
+  {
+   "rel": "jinyue/yingxiaoluluna/outfit2.webp",
+   "work": "近月",
+   "char": "樱小路露娜",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--9ddf8457dea116bc.png"
+  },
+  {
+   "rel": "jinyue/youxier-fululu-rangmeier/outfit1.webp",
+   "work": "近月",
+   "char": "尤希尔·弗露露·让梅尔",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--6b2233d58468cd02.png"
+  },
+  {
+   "rel": "jinyue/youxier-fululu-rangmeier/outfit2.webp",
+   "work": "近月",
+   "char": "尤希尔·弗露露·让梅尔",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--47bce14a872ac706.png"
+  },
+  {
+   "rel": "lunwuqu/jiangliyuanmeiyue/outfit1.webp",
+   "work": "轮舞曲",
+   "char": "江利原美月",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--12b468ec2a5c9274.png"
+  },
+  {
+   "rel": "lunwuqu/jiangliyuanmeiyue/outfit2.webp",
+   "work": "轮舞曲",
+   "char": "江利原美月",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--6c1c24300550a055.png"
+  },
+  {
+   "rel": "lunwuqu/menxieying/outfit1.webp",
+   "work": "轮舞曲",
+   "char": "门胁樱",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--8a9f0c067443ef90.png"
+  },
+  {
+   "rel": "lunwuqu/menxieying/outfit2.webp",
+   "work": "轮舞曲",
+   "char": "门胁樱",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--e6ec0fd55be18937.png"
+  },
+  {
+   "rel": "lunwuqu/tiansiliangxiang/outfit1.webp",
+   "work": "轮舞曲",
+   "char": "天司凉香",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--afea90ae1ae2e9b9.png"
+  },
+  {
+   "rel": "lunwuqu/tiansiliangxiang/outfit2.webp",
+   "work": "轮舞曲",
+   "char": "天司凉香",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--626abca668bffe3c.png"
+  },
+  {
+   "rel": "lunwuqu/xiaofengzhennaimei/outfit1.webp",
+   "work": "轮舞曲",
+   "char": "小峰真奈美",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--612d5aedcf859023.png"
+  },
+  {
+   "rel": "lunwuqu/xiaofengzhennaimei/outfit2.webp",
+   "work": "轮舞曲",
+   "char": "小峰真奈美",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--2c200f44fdbc364e.png"
+  },
+  {
+   "rel": "lunwuqu/xinyuanruocai/outfit1.webp",
+   "work": "轮舞曲",
+   "char": "新垣若菜",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--da58575507bb658e.png"
+  },
+  {
+   "rel": "lunwuqu/xinyuanruocai/outfit2.webp",
+   "work": "轮舞曲",
+   "char": "新垣若菜",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--12d4242eddd4d0b7.png"
+  },
+  {
+   "rel": "lunwuqu/zhenyuanyouli/outfit1.webp",
+   "work": "轮舞曲",
+   "char": "真原祐里",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--11191e46d9b9d052.png"
+  },
+  {
+   "rel": "lunwuqu/zhenyuanyouli/outfit2.webp",
+   "work": "轮舞曲",
+   "char": "真原祐里",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--25021178924cce93.png"
+  },
+  {
+   "rel": "ningshui/chayuannayouhua/outfit2.webp",
+   "work": "柠水",
+   "char": "茶园那优花",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--bc3aafb22bad3113.png"
+  },
+  {
+   "rel": "ningshui/chayuannayouhua/outfit3.webp",
+   "work": "柠水",
+   "char": "茶园那优花",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--b403a5dea18d0fd9.png"
+  },
+  {
+   "rel": "ningshui/daoyueyuewang/outfit1.webp",
+   "work": "柠水",
+   "char": "岛越月望",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--049d206bc1ad30b1.png"
+  },
+  {
+   "rel": "ningshui/daoyueyuewang/outfit2.webp",
+   "work": "柠水",
+   "char": "岛越月望",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--78b53b538c3e746a.png"
+  },
+  {
+   "rel": "ningshui/daoyueyuewang/outfit3.webp",
+   "work": "柠水",
+   "char": "岛越月望",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--c6c90476607ff9ff.png"
+  },
+  {
+   "rel": "ningshui/daoyueyuewang/outfit4.webp",
+   "work": "柠水",
+   "char": "岛越月望",
+   "variant": "衣装④",
+   "url": "https://origin.picgo.net/2026/11/10/--f020698dd62dbe06.png"
+  },
+  {
+   "rel": "ningshui/erjianyuanlilizi/outfit1.webp",
+   "work": "柠水",
+   "char": "二见原莉莉子",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--28a60c10da01637b.png"
+  },
+  {
+   "rel": "ningshui/erjianyuanlilizi/outfit2.webp",
+   "work": "柠水",
+   "char": "二见原莉莉子",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--3127b61ce6e301fd.png"
+  },
+  {
+   "rel": "ningshui/lichuanmeijiu/outfit2.webp",
+   "work": "柠水",
+   "char": "砾川美玖",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--f848626a44e70c88.png"
+  },
+  {
+   "rel": "ningshui/lichuanmeijiu/outfit3.webp",
+   "work": "柠水",
+   "char": "砾川美玖",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--c7819cd8a69ab4d3.png"
+  },
+  {
+   "rel": "ningshui/yangjianhuizhi/outfit1.webp",
+   "work": "柠水",
+   "char": "阳见惠凪",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--7d260199d974acc1.png"
+  },
+  {
+   "rel": "ningshui/yangjianhuizhi/outfit2.webp",
+   "work": "柠水",
+   "char": "阳见惠凪",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--e6bb92efb119746c.png"
+  },
+  {
+   "rel": "ningshui/yangjianhuizhi/outfit3.webp",
+   "work": "柠水",
+   "char": "阳见惠凪",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--a8dcd5b58e5e8407.png"
+  },
+  {
+   "rel": "ningshui/yinxingzhu/outfit1.webp",
+   "work": "柠水",
+   "char": "隐杏珠",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--3027f8896f270618.png"
+  },
+  {
+   "rel": "ningshui/yinxingzhu/outfit2.webp",
+   "work": "柠水",
+   "char": "隐杏珠",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--47dac3b83681c2c9.png"
+  },
+  {
+   "rel": "ningshui/yinxingzhu/outfit3.webp",
+   "work": "柠水",
+   "char": "隐杏珠",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--deec274690435880.png"
+  },
+  {
+   "rel": "ningshui/yinxingzhu/outfit4.webp",
+   "work": "柠水",
+   "char": "隐杏珠",
+   "variant": "衣装④",
+   "url": "https://origin.picgo.net/2026/11/10/--f4e9377e6b407913.png"
+  },
+  {
+   "rel": "wanhuajing/xixili/outfit1.webp",
+   "work": "万华镜",
+   "char": "觋夕莉",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--7c9e723f7b7c9c5b.png"
+  },
+  {
+   "rel": "wanhuajing/xixili/outfit2.webp",
+   "work": "万华镜",
+   "char": "觋夕莉",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--dcb7ac904a0dc88d.png"
+  },
+  {
+   "rel": "wanhuajing/xiximo/outfit1.webp",
+   "work": "万华镜",
+   "char": "觋夕摩",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--c788dee9d602226b.png"
+  },
+  {
+   "rel": "wanhuajing/xiximo/outfit2.webp",
+   "work": "万华镜",
+   "char": "觋夕摩",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--ebcd14154caf9f10.png"
+  },
+  {
+   "rel": "wanhuajing/yudianchangjingzi/outfit1.webp",
+   "work": "万华镜",
+   "char": "御殿场镜子",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--a095f74060a82eae.png"
+  },
+  {
+   "rel": "yingzhishi/bingchuanlinai/child-rina.webp",
+   "work": "樱之诗",
+   "char": "冰川里奈",
+   "variant": "童年里奈",
+   "url": "https://origin.picgo.net/2026/11/10/--96b0180bbe59449c.png"
+  },
+  {
+   "rel": "yingzhishi/bingchuanlinai/outfit1.webp",
+   "work": "樱之诗",
+   "char": "冰川里奈",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--64aa9e1af9056c0f.png"
+  },
+  {
+   "rel": "yingzhishi/bingchuanlinai/outfit2.webp",
+   "work": "樱之诗",
+   "char": "冰川里奈",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--332c518ce0e58c19.png"
+  },
+  {
+   "rel": "yingzhishi/caotizhizai/normal.webp",
+   "work": "樱之诗",
+   "char": "草薙直哉",
+   "variant": "通常",
+   "url": "https://origin.picgo.net/2026/11/10/--118bcd74cac097d2.png"
+  },
+  {
+   "rel": "yingzhishi/chuanneiyeyoumei/outfit1.webp",
+   "work": "樱之诗",
+   "char": "川内野优美",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--31cc399fdfa1bb72.png"
+  },
+  {
+   "rel": "yingzhishi/chuanneiyeyoumei/outfit2.webp",
+   "work": "樱之诗",
+   "char": "川内野优美",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--562e7533580f19e5.png"
+  },
+  {
+   "rel": "yingzhishi/chuanneiyeyoumei/outfit3.webp",
+   "work": "樱之诗",
+   "char": "川内野优美",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--7a4db6c805a9ea22.png"
+  },
+  {
+   "rel": "yingzhishi/niaoguzhenqin/outfit1.webp",
+   "work": "樱之诗",
+   "char": "鸟谷真琴",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--a0be5267595fde38.png"
+  },
+  {
+   "rel": "yingzhishi/niaoguzhenqin/outfit2.webp",
+   "work": "樱之诗",
+   "char": "鸟谷真琴",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--bf1e767ca911107f.png"
+  },
+  {
+   "rel": "yingzhishi/niaoguzhenqin/outfit3.webp",
+   "work": "樱之诗",
+   "char": "鸟谷真琴",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--26a551cb6bb87e68.png"
+  },
+  {
+   "rel": "yingzhishi/xiamulan/outfit2.webp",
+   "work": "樱之诗",
+   "char": "夏目蓝",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--0509e832404d4573.png"
+  },
+  {
+   "rel": "yingzhishi/xiamulan/outfit3.webp",
+   "work": "樱之诗",
+   "char": "夏目蓝",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--fb4fa97911287905.png"
+  },
+  {
+   "rel": "yingzhishi/xiamuna/outfit1.webp",
+   "work": "樱之诗",
+   "char": "夏目雫",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--a74a396a3d593f13.png"
+  },
+  {
+   "rel": "yingzhishi/xiamuna/outfit2.webp",
+   "work": "樱之诗",
+   "char": "夏目雫",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--4f0824527daa2709.png"
+  },
+  {
+   "rel": "yingzhishi/yuyingbing/child-rin.webp",
+   "work": "樱之诗",
+   "char": "御樱稟",
+   "variant": "童年禀",
+   "url": "https://origin.picgo.net/2026/11/10/--de45f1e8d874fb61.png"
+  },
+  {
+   "rel": "yingzhishi/yuyingbing/outfit1.webp",
+   "work": "樱之诗",
+   "char": "御樱稟",
+   "variant": "衣装①",
+   "url": "https://origin.picgo.net/2026/11/10/--d406b44b5ffab2e0.png"
+  },
+  {
+   "rel": "yingzhishi/yuyingbing/outfit2.webp",
+   "work": "樱之诗",
+   "char": "御樱稟",
+   "variant": "衣装②",
+   "url": "https://origin.picgo.net/2026/11/10/--60a939a9d1db2068.png"
+  },
+  {
+   "rel": "yingzhishi/yuyingbing/outfit3.webp",
+   "work": "樱之诗",
+   "char": "御樱稟",
+   "variant": "衣装③",
+   "url": "https://origin.picgo.net/2026/11/10/--75135317e154afde.png"
+  }
+ ]
+}
